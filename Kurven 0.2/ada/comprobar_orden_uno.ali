@@ -1,0 +1,117 @@
+V "GNAT Lib v2012"
+M P W=b
+A -gnatf
+A -gnatA
+P SS ZX
+R nnnnnnnnnnnnnnnnnnnnnnnnvvnnnnnnnnnnnnnnnvnnvnnnnnnnnnnnnnvnnnnvnnnnnnvnnnnnnnnnnnnnn
+
+U comprobar_orden_uno%b	comprobar_orden_uno.adb	90405cbb NE OO SU IL
+W ada%s			ada.ads			ada.ali
+W ada.numerics%s	a-numeri.ads		a-numeri.ali
+W ada.numerics.elementary_functions%s  a-nuelfu.ads  a-nuelfu.ali
+W ada.numerics.real_arrays%s  a-nurear.ads	a-nurear.ali
+W ada.strings%s		a-string.ads		a-string.ali
+W ada.strings.fixed%s	a-strfix.adb		a-strfix.ali
+W ada.tags%s		a-tags.adb		a-tags.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+W system.secondary_stack%s  s-secsta.adb	s-secsta.ali
+W system.val_real%s	s-valrea.adb		s-valrea.ali
+
+D ada.ads		20120510125803 3ffc8e18
+D a-charac.ads		20120510125749 2d3ec45b
+D a-chlat1.ads		20120510125749 2825df20
+D a-except.ads		20120510125752 ec1b44c1
+D a-finali.ads		20120510125753 52ecdc1b
+D a-ioexce.ads		20120510125753 8b9de6cd
+D a-numeri.ads		20120510125755 bb51c45a
+D a-nuelfu.ads		20120510125755 03e83d1c
+D a-ngelfu.ads		20120510125754 243903c9
+D a-ngrear.ads		20120510125754 86992c51
+D a-nurear.ads		20120510125755 3158da1f
+D a-stream.ads		20120510125756 2ca4ee37
+D a-string.ads		20120510125757 90ac6797
+D a-strfix.ads		20120510125756 d07c346e
+D a-strmap.ads		20120510125757 9cb836fb
+D a-tags.ads		20120510125759 6c0509d0
+D a-textio.ads		20120510125800 386df5d4
+D a-unccon.ads		20120510125801 f9eb8f06
+D comprobar_orden_uno.adb  20120922184144 da4d1d95
+D interfac.ads		20120510125815 129923ea
+D i-cstrea.ads		20120510125814 1bd72c32
+D system.ads		20120510125846 72a1f35b
+D s-crtl.ads		20120510125824 ac77b159
+D s-exctab.ads		20120510125824 66e51330
+D s-ficobl.ads		20120510125825 443b9d66
+D s-finmas.ads		20120510125825 b95bb341
+D s-finroo.ads		20120510125825 4ff27390
+D s-parame.ads		20120510125832 b6e20cc0
+D s-pooglo.ads		20120510125832 542f33d0
+D s-secsta.ads		20120510125833 eea35a36
+D s-soflin.ads		20120510125833 24c8153c
+D s-stache.ads		20120510125834 596fc1b4
+D s-stalib.ads		20120510125834 f78bcf95
+D s-stoele.ads		20120510125834 facd7d98
+D s-stoele.adb		20120510125834 afc5dc80
+D s-stopoo.ads		20120510125834 7b8fbeee
+D s-traent.ads		20120510125838 5221ee41
+D s-unstyp.ads		20120510125838 6ae15c76
+D s-valrea.ads		20120510125839 fe297711
+D s-wchcon.ads		20120510125840 bfeb2e3d
+X 1 ada.ads
+16K9*Ada 19e8 19|1r6 1r69 2r6 2r69 3r6 3r61 4r6 4r45 5r6 5r61
+X 7 a-numeri.ads
+16K13*Numerics 32e17 19|4r10 4r49 5r10 5r65
+X 8 a-nuelfu.ads
+18K22*Elementary_Functions[9|39] 19|4w19 4r58
+X 9 a-ngelfu.ads
+52V13*Log{float} 19|59s31[8|18]
+123V13*Arctan{float} 19|79s50[8|18] 80s52[8|18]
+X 11 a-nurear.ads
+18K22*Real_Arrays[10|38] 19|5w19 5r74
+X 13 a-string.ads
+16K13*Strings 35e16 19|2w10 2r73 3r10 3r65
+33n37*Both{33E9} 19|43r77 45r82
+X 14 a-strfix.ads
+18K21*Fixed 251e22 19|3w18 3r73
+36V13*Index{natural} 19|42s33
+148U14*Replace_Slice 19|44s25
+195V13*Trim{string} 19|43s50 45s51
+X 17 a-textio.ads
+49K13*Text_IO 471e16 19|1w10 1r73
+52P9*File_Type(369R9) 19|16r18
+53n23*In_File{53E9} 19|35r22
+92U14*Open 19|35s9
+98U14*Close 19|51s9
+183V13*End_Of_File{boolean} 19|36s19
+253V13*Get_Line{string} 19|38s43
+263U14*Put_Line 19|92s17 96s17
+X 19 comprobar_orden_uno.adb
+7U11*comprobar_orden_uno 7b11 98l5 98t24
+8i9 n{integer} 9r40 10r40 11r40 12r56 15r40 49m9 55r22 58r42 64r21 78r22
+9a9 t(float) 43m25 50r22 50r29 65r31 67r31
+10a9 vo(float) 45m25 58r26 58r39
+11a9 vl(float) 59m17 66r31 68r31
+12a9 angulo_de_inclinacion(float) 79m17 80m17 81r43 81r73
+13f9 vlf{float}
+15a9 m(float) 69m17 79r57 80r59
+16p9 Arch{17|52P9} 35m16 35r16 36r32 38r53 51m16 51r16
+17a9 Nombre{string} 35r31
+18i9 indb{natural} 42m25 43r67 44r51
+19f9 Ts{float} 50m9
+20i9 Conta{integer} 40m25 40r34 43r27 45r28 49r14
+21i9 Conta2{integer} 57m17 57r27 58r29 59r20
+22i9 Conta3{integer} 65r33 66r34 67r33 68r34 69r19 71m17 71r27
+23i9 Conta4{integer} 79r39 79r59 80r39 80r61 81r65 81r95 87m17 87r27
+24f9 X{float} 58m17 59r35
+25i9 Respuesta{integer} 84m25 89r12
+26f9 diferencia_angular{float} 81m17 83r20
+27R14 coordenada 31e27 32r18
+29f25 x{float} 65m20 67m20 69r50 69r57
+30f25 y{float} 66m20 68m20 69r34 69r41
+32r9 p1{27R14} 65m17 66m17 69r38 69r54
+32r13 p2{27R14} 67m17 68m17 69r31 69r47
+38a25 Linea{string} 42r40 42r49 43r56 44r41 45r57 45r68
+55i13 i{integer}
+64i13 i{integer}
+78i13 i{integer}
+

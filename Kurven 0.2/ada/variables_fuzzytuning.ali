@@ -1,0 +1,63 @@
+V "GNAT Lib v2012"
+A -gnatf
+A -gnatA
+P ZX
+R nnnnnnnnnnnnnnnnnnnnnnnnvnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnvnnnnvnnnnnnvnnnnnnnnnnnnnn
+
+U variables_fuzzytuning%s  variables_fuzzytuning.ads  4633184b NE OO PK IL
+W ada%s			ada.ads			ada.ali
+W ada.numerics%s	a-numeri.ads		a-numeri.ali
+W ada.numerics.real_arrays%s  a-nurear.ads	a-nurear.ali
+
+D ada.ads		20120510125803 3ffc8e18
+D a-numeri.ads		20120510125755 bb51c45a
+D a-ngrear.ads		20120510125754 86992c51
+D a-nurear.ads		20120510125755 3158da1f
+D a-unccon.ads		20120510125801 f9eb8f06
+D system.ads		20120510125846 72a1f35b
+D s-exctab.ads		20120510125824 66e51330
+D s-stalib.ads		20120510125834 f78bcf95
+D variables_fuzzytuning.ads  20121123134107 776bc254
+X 1 ada.ads
+16K9*Ada 19e8 9|1r6 1r37
+X 2 a-numeri.ads
+16K13*Numerics 32e17 9|1r10 1r41
+X 4 a-nurear.ads
+18K22*Real_Arrays[3|38] 9|1w19 1r50
+X 9 variables_fuzzytuning.ads
+3K9*variables_fuzzytuning 77l5 77e26
+9R14*MUESTREO 13e27
+11f25*VALOR{float}
+12f25*TIEMPO{float}
+16R14*ESTADO_TAS 29e27 71r19
+19f25*INICIAL{float}
+20f25*ACTUAL{float}
+21f25*VALOR{float}
+23f25*IGUAL_AL_ESCALON{float}
+24f25*ESTA_20_PORCIENTO_MASRAPIDO{float}
+25f25*ESTA_40_PORCIENTO_MASRAPIDO{float}
+26f25*ESTA_60_PORCIENTO_MASRAPIDO{float}
+27f25*ESTA_80_PORCIENTO_MASRAPIDO{float}
+28f25*ESTA_100_PORCIENTO_MASRAPIDO{float}
+31R14*ESTADO_MP 43e27 72r19
+34f25*VALOR{float}
+37f25*NULO{float}
+38f25*MUY_POCO{float}
+39f25*POCO{float}
+40f25*MEDIO{float}
+41f25*GRANDE{float}
+42f25*MUY_GRANDE{float}
+45f9*Salida_TAS{float}
+46a9*Operacion_TAS(float)
+53a9*Media_TAS(float)
+56f9*Salida_CHI{float}
+57a9*Operacion_CHI(float)
+64a9*Media_CHI(float)
+69f9*Kp{float}
+70f9*Ki{float}
+71r9*TAS{16R14}
+72r9*MP{31R14}
+73f9*Tr{float}
+76b9*Run_p{boolean}
+76b16*Run_c{boolean}
+

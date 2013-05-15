@@ -1,0 +1,61 @@
+V "GNAT Lib v2012"
+A -gnatf
+A -gnatA
+P ZX
+R nnnnnnnnnnnnnnnnnnnnnnnnvnnnvvnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnvnnnvnnvnnnnnnnnnnnnnn
+
+U variables_esp_curv%s	variables_esp_curv.ads	e931e617 EE OO PK IL KM
+W ada%s			ada.ads			ada.ali
+W ada.numerics%s	a-numeri.ads		a-numeri.ali
+W ada.numerics.real_arrays%s  a-nurear.ads	a-nurear.ali
+
+D ada.ads		20120510125803 3ffc8e18
+D a-numeri.ads		20120510125755 bb51c45a
+D a-ngrear.ads		20120510125754 86992c51
+D a-nurear.ads		20120510125755 3158da1f
+D a-unccon.ads		20120510125801 f9eb8f06
+D system.ads		20120510125846 72a1f35b
+D s-exctab.ads		20120510125824 66e51330
+D s-stalib.ads		20120510125834 f78bcf95
+D variables_esp_curv.ads  20121123154207 d8693c08
+X 1 ada.ads
+16K9*Ada 19e8 9|1r6 1r37
+X 2 a-numeri.ads
+16K13*Numerics 32e17 9|1r10 1r41
+X 3 a-ngrear.ads
+43A9*Real_Vector(float)<integer> 9|39r19[4|18] 40r19[4|18]
+X 4 a-nurear.ads
+18K22*Real_Arrays[3|38] 9|1w19 1r50
+X 9 variables_esp_curv.ads
+2K9*variables_esp_curv 42l5 42e23
+4R14*COORDENADA 10e27
+6f25*X{float}
+7f25*Y{float}
+8f25*m{float}
+9f25*b{float}
+12R14*MUESTREO 16e27
+14f25*VALOR{float}
+15f25*TIEMPO{float}
+20f9*TAS{float}
+21f9*MP{float}
+22f9*CHI{float}
+23f9*k{float}
+24f9*t10{float}
+25f9*t90{float}
+26f9*t95{float}
+27f9*k10{float}
+28f9*k90{float}
+29f9*k95{float}
+30i9*ik10{integer}
+31i9*ik90{integer}
+32i9*ik95{integer}
+33f9*Tr{float}
+34f9*r{float}
+35f9*kd{long_float}
+35f13*taud{long_float}
+36i9*npmax{integer} 39r34 40r34
+37i9*n{integer}
+38f9*Ts{long_float}
+39a9*t{3|43A9[4|18]}
+40a9*v{3|43A9[4|18]}
+

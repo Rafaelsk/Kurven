@@ -1,0 +1,47 @@
+V "GNAT Lib v2012"
+A -gnatf
+A -gnatA
+P ZX
+R nnnnnnnnnnnnnnnnnnnnnnnnvnnnvvnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnvnnnvnnvnnnnnnnnnnnnnn
+
+U variablesmd%s		variablesmd.ads		55d7062e EE OO PK IL
+W ada%s			ada.ads			ada.ali
+W ada.numerics%s	a-numeri.ads		a-numeri.ali
+W ada.numerics.real_arrays%s  a-nurear.ads	a-nurear.ali
+
+D ada.ads		20120510125803 3ffc8e18
+D a-numeri.ads		20120510125755 bb51c45a
+D a-ngrear.ads		20120510125754 86992c51
+D a-nurear.ads		20120510125755 3158da1f
+D a-unccon.ads		20120510125801 f9eb8f06
+D system.ads		20120510125846 72a1f35b
+D s-exctab.ads		20120510125824 66e51330
+D s-stalib.ads		20120510125834 f78bcf95
+D variablesmd.ads	20121031031324 648fdc31
+X 1 ada.ads
+16K9*Ada 19e8 9|1r6 1r37
+X 2 a-numeri.ads
+16K13*Numerics 32e17 9|1r10 1r41
+X 3 a-ngrear.ads
+43A9*Real_Vector(float)<integer> 9|9r13[4|18] 10r13[4|18] 11r13[4|18] 12r15[4|18]
+. 14r14[4|18]
+X 4 a-nurear.ads
+18K22*Real_Arrays[3|38] 9|1w19 1r50
+X 9 variablesmd.ads
+3K9*variablesmd 21l5 21e16
+4f9*r{float}
+5f9*kd{long_float}
+5f13*taud{long_float}
+6i9*npmax{integer} 9r28 10r28 11r28 12r30 14r29
+7i9*n{integer}
+8f9*Ts{long_float}
+9a9*t{3|43A9[4|18]}
+10a9*v{3|43A9[4|18]}
+11a9*m{3|43A9[4|18]}
+12a9*err{3|43A9[4|18]}
+13f9*ISEd{long_float}
+14a9*yd{3|43A9[4|18]}
+15R14*T_Punto 19e19
+17f17*x{long_float}
+18f17*y{long_float}
+

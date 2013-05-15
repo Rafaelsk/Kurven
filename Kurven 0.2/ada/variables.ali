@@ -1,0 +1,69 @@
+V "GNAT Lib v2012"
+A -gnatf
+A -gnatA
+P ZX
+R nnnnnnnnnnnnnnnnnnnnnnnnvnnnvvnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnvnnnvnnvnnnnnnnnnnnnnn
+
+U variables%s		variables.ads		24e16386 EE OO PK IL
+W ada%s			ada.ads			ada.ali
+W ada.numerics%s	a-numeri.ads		a-numeri.ali
+W ada.numerics.real_arrays%s  a-nurear.ads	a-nurear.ali
+
+D ada.ads		20120510125803 3ffc8e18
+D a-numeri.ads		20120510125755 bb51c45a
+D a-ngrear.ads		20120510125754 86992c51
+D a-nurear.ads		20120510125755 3158da1f
+D a-unccon.ads		20120510125801 f9eb8f06
+D system.ads		20120510125846 72a1f35b
+D s-exctab.ads		20120510125824 66e51330
+D s-stalib.ads		20120510125834 f78bcf95
+D variables.ads		20120726115038 15b9b999
+X 1 ada.ads
+16K9*Ada 19e8 9|1r6 1r37
+X 2 a-numeri.ads
+16K13*Numerics 32e17 9|1r10 1r41
+X 3 a-ngrear.ads
+43A9*Real_Vector(float)<integer> 9|9r13[4|18] 10r13[4|18] 11r13[4|18] 12r15[4|18]
+. 14r14[4|18] 15r16[4|18] 17r15[4|18] 18r17[4|18] 26r16[4|18] 27r16[4|18]
+X 4 a-nurear.ads
+18K22*Real_Arrays[3|38] 9|1w19 1r50
+X 9 variables.ads
+3K9*variables 35l5 35e14
+4f9*r{long_float}
+5f9*kd{long_float}
+5f13*taud{long_float}
+6i9*npmax{integer} 9r28 10r28 11r28 12r30 14r29 15r31 17r30 18r32
+7i9*n{integer}
+8f9*Ts{long_float}
+9a9*t{3|43A9[4|18]}
+10a9*v{3|43A9[4|18]}
+11a9*m{3|43A9[4|18]}
+12a9*err{3|43A9[4|18]}
+13f9*ISE{long_float}
+14a9*md{3|43A9[4|18]}
+15a9*errd{3|43A9[4|18]}
+16f9*ISEd{long_float}
+17a9*mfb{3|43A9[4|18]}
+18a9*errfb{3|43A9[4|18]}
+19f9*ISEfb{long_float}
+20f9*kfb{long_float}
+20f14*taufb{long_float}
+21f9*mk{long_float}
+21f13*mtau{long_float}
+21f19*mISE{long_float}
+22f9*tau_min{long_float}
+22f18*tau_max{long_float}
+22f27*tau_paso{long_float}
+22f37*tau_temp{long_float}
+23f9*ISE_temp{long_float}
+24i9*contaglim{integer}
+24i20*contag{integer}
+24i28*indice{integer}
+24i36*contador{integer}
+25i9*mcpg{integer} 26r31 27r31
+26a9*taus{3|43A9[4|18]}
+27a9*ISEs{3|43A9[4|18]}
+29R14*T_Punto 33e19
+31f17*x{long_float}
+32f17*y{long_float}
+

@@ -1,0 +1,64 @@
+V "GNAT Lib v2012"
+M P W=b
+A -gnatf
+A -gnatA
+P ZX
+R nnnnnnnnnnnnnnnnnnnnnnnnvvnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnvnvnnnnnnvnnnnnnnnnnnnnn
+
+U prueba%b		prueba.adb		8f03eb13 NE OO SU IL KM
+W ada%s			ada.ads			ada.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+W biblioteca_esp_curv%s	biblioteca_esp_curv.adb	biblioteca_esp_curv.ali
+W system.concat_7%s	s-conca7.adb		s-conca7.ali
+W system.img_real%s	s-imgrea.adb		s-imgrea.ali
+
+D ada.ads		20120510125803 3ffc8e18
+D a-except.ads		20120510125752 ec1b44c1
+D a-finali.ads		20120510125753 52ecdc1b
+D a-ioexce.ads		20120510125753 8b9de6cd
+D a-numeri.ads		20120510125755 bb51c45a
+D a-ngrear.ads		20120510125754 86992c51
+D a-nurear.ads		20120510125755 3158da1f
+D a-stream.ads		20120510125756 2ca4ee37
+D a-tags.ads		20120510125759 6c0509d0
+D a-textio.ads		20120510125800 386df5d4
+D a-unccon.ads		20120510125801 f9eb8f06
+D biblioteca_esp_curv.ads  20121123012301 971608f5
+D interfac.ads		20120510125815 129923ea
+D i-cstrea.ads		20120510125814 1bd72c32
+D prueba.adb		20121123162613 20781632
+D system.ads		20120510125846 72a1f35b
+D s-conca7.ads		20120510125823 1c57f31a
+D s-crtl.ads		20120510125824 ac77b159
+D s-exctab.ads		20120510125824 66e51330
+D s-ficobl.ads		20120510125825 443b9d66
+D s-finmas.ads		20120510125825 b95bb341
+D s-finroo.ads		20120510125825 4ff27390
+D s-imgrea.ads		20120510125826 c7a851e2
+D s-parame.ads		20120510125832 b6e20cc0
+D s-pooglo.ads		20120510125832 542f33d0
+D s-soflin.ads		20120510125833 24c8153c
+D s-stache.ads		20120510125834 596fc1b4
+D s-stalib.ads		20120510125834 f78bcf95
+D s-stoele.ads		20120510125834 facd7d98
+D s-stoele.adb		20120510125834 afc5dc80
+D s-stopoo.ads		20120510125834 7b8fbeee
+D s-traent.ads		20120510125838 5221ee41
+D s-unstyp.ads		20120510125838 6ae15c76
+D s-wchcon.ads		20120510125840 bfeb2e3d
+D variables_esp_curv.ads  20121123154207 d8693c08
+X 1 ada.ads
+16K9*Ada 19e8 15|2r6 2r45
+X 10 a-textio.ads
+49K13*Text_IO 471e16 15|2w10 2r49
+263U14*Put_Line 15|9s9
+X 12 biblioteca_esp_curv.ads
+4K9*biblioteca_esp_curv 11e24 15|1w6 1r37
+10U19*especificaciones_curva 15|8s9
+X 15 prueba.adb
+4U11*prueba 4b11 10l5 10t11
+5f9 Tr{float} 8m40 8r40 9r34
+5f13 TAS{float} 8m44 8r44 9r50
+5f18 MP{float} 8m49 8r49 9r67
+6a9 Nombre{string} 8r32 9r18
+

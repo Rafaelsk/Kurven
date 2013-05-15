@@ -1,0 +1,67 @@
+V "GNAT Lib v2012"
+M P W=b
+A -O2
+A -gnatwa
+A -gnatf
+A -gnatA
+P SS ZX
+R nnnnnnnnnnnnnnnnnnnnnnnnvvvnnnnnnnnnnnnnnvnnnnnnnnnnnnnnnnnnnvnvnnnnnnvnnnnnnnnnnnnnn
+
+U entonar%b		entonar.adb		214782ae NE OO SU IL
+W ada%s			ada.ads			ada.ali
+W ada.command_line%s	a-comlin.adb		a-comlin.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+W system.img_real%s	s-imgrea.adb		s-imgrea.ali
+W system.secondary_stack%s  s-secsta.adb	s-secsta.ali
+W system.val_real%s	s-valrea.adb		s-valrea.ali
+
+D ada.ads		20120510125803 3ffc8e18
+D a-comlin.ads		20120510125750 e0accaa5
+D a-except.ads		20120510125752 ec1b44c1
+D a-finali.ads		20120510125753 52ecdc1b
+D a-ioexce.ads		20120510125753 8b9de6cd
+D a-stream.ads		20120510125756 2ca4ee37
+D a-tags.ads		20120510125759 6c0509d0
+D a-textio.ads		20120510125800 386df5d4
+D a-unccon.ads		20120510125801 f9eb8f06
+D entonar.adb		20120728134402 f986bddf
+D interfac.ads		20120510125815 129923ea
+D i-cstrea.ads		20120510125814 1bd72c32
+D system.ads		20120510125846 72a1f35b
+D s-crtl.ads		20120510125824 ac77b159
+D s-exctab.ads		20120510125824 66e51330
+D s-ficobl.ads		20120510125825 443b9d66
+D s-finmas.ads		20120510125825 b95bb341
+D s-finroo.ads		20120510125825 4ff27390
+D s-imgrea.ads		20120510125826 c7a851e2
+D s-parame.ads		20120510125832 b6e20cc0
+D s-pooglo.ads		20120510125832 542f33d0
+D s-secsta.ads		20120510125833 eea35a36
+D s-soflin.ads		20120510125833 24c8153c
+D s-stache.ads		20120510125834 596fc1b4
+D s-stalib.ads		20120510125834 f78bcf95
+D s-stoele.ads		20120510125834 facd7d98
+D s-stoele.adb		20120510125834 afc5dc80
+D s-stopoo.ads		20120510125834 7b8fbeee
+D s-traent.ads		20120510125838 5221ee41
+D s-unstyp.ads		20120510125838 6ae15c76
+D s-valrea.ads		20120510125839 fe297711
+D s-wchcon.ads		20120510125840 bfeb2e3d
+X 1 ada.ads
+16K9*Ada 19e8 10|1r6 1r37 2r6 2r29
+X 2 a-comlin.ads
+38K13*Command_Line 139e21 10|2w10 2r33
+48V13*Argument{string} 10|15s29 16s29 17s29 18s29
+X 8 a-textio.ads
+49K13*Text_IO 471e16 10|1w10 1r41
+242U14*Put 10|24s4
+X 10 entonar.adb
+4U11*entonar 4b11 26l5 26t12
+6f4 K{long_float} 15m4 22r35 23r26
+7f4 Tau{long_float} 16m4 22r25 23r21
+8f4 Kp{long_float} 22m4 24r8
+9f4 Ki{long_float} 23m4 24r23
+10f4 Chi{long_float} 17m4 19r17 22r18
+11f4 Wn{long_float} 19m4 22r22 23r14
+12f4 Tas{long_float} 18m4 19r21
+

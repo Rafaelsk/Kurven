@@ -1,0 +1,184 @@
+V "GNAT Lib v2012"
+A -gnatf
+A -gnatA
+P SS ZX
+R nnnnnnnnnnnnnnnnnnvnnvnnvvnnnnnnnnnnnnnnnvnnvnnnnnnnnnnnnnvnnvnvnnnnnnvnnnnnnnnnnnnnn
+
+U busqueda_directa%b	busqueda_directa.adb	9237ca73 NE OO PK IL
+W ada%s			ada.ads			ada.ali
+W ada.command_line%s	a-comlin.adb		a-comlin.ali
+W ada.numerics%s	a-numeri.ads		a-numeri.ali
+W ada.numerics.elementary_functions%s  a-nuelfu.ads  a-nuelfu.ali
+W ada.numerics.real_arrays%s  a-nurear.ads	a-nurear.ali
+W ada.strings%s		a-string.ads		a-string.ali
+W ada.strings.fixed%s	a-strfix.adb		a-strfix.ali
+W ada.tags%s		a-tags.adb		a-tags.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+W gnat%s		gnat.ads		gnat.ali
+W gnat.sockets%s	g-socket.adb		g-socket.ali
+W interfaces%s		interfac.ads		interfac.ali
+W interfaces.c%s	i-c.adb			i-c.ali
+W system%s		system.ads		system.ali
+W system.concat_3%s	s-conca3.adb		s-conca3.ali
+W system.concat_5%s	s-conca5.adb		s-conca5.ali
+W system.img_real%s	s-imgrea.adb		s-imgrea.ali
+W system.secondary_stack%s  s-secsta.adb	s-secsta.ali
+W system.val_real%s	s-valrea.adb		s-valrea.ali
+W variablesmd%s		variablesmd.ads		variablesmd.ali
+
+U busqueda_directa%s	busqueda_directa.ads	841b8f6e EE NE OO PK IL
+W ada%s			ada.ads			ada.ali
+W ada.command_line%s	a-comlin.adb		a-comlin.ali
+W system%s		system.ads		system.ali
+W variablesmd%s		variablesmd.ads		variablesmd.ali
+
+D ada.ads		20120510125803 3ffc8e18
+D a-charac.ads		20120510125749 2d3ec45b
+D a-chlat1.ads		20120510125749 2825df20
+D a-comlin.ads		20120510125750 e0accaa5
+D a-except.ads		20120510125752 ec1b44c1
+D a-finali.ads		20120510125753 52ecdc1b
+D a-ioexce.ads		20120510125753 8b9de6cd
+D a-numeri.ads		20120510125755 bb51c45a
+D a-nuelfu.ads		20120510125755 03e83d1c
+D a-ngelfu.ads		20120510125754 243903c9
+D a-ngrear.ads		20120510125754 86992c51
+D a-nurear.ads		20120510125755 3158da1f
+D a-stream.ads		20120510125756 2ca4ee37
+D a-string.ads		20120510125757 90ac6797
+D a-strfix.ads		20120510125756 d07c346e
+D a-strmap.ads		20120510125757 9cb836fb
+D a-tags.ads		20120510125759 6c0509d0
+D a-textio.ads		20120510125800 386df5d4
+D a-unccon.ads		20120510125801 f9eb8f06
+D a-uncdea.ads		20120510125801 f15a5ed1
+D busqueda_directa.ads	20121121011302 72996aa1
+D busqueda_directa.adb	20121121011217 04562c76
+D gnat.ads		20120510125813 fd2ad2f1
+D g-socket.ads		20120510125811 0c5639de
+D interfac.ads		20120510125815 129923ea
+D i-c.ads		20120510125814 5421119b
+D i-cstrea.ads		20120510125814 1bd72c32
+D system.ads		20120510125846 72a1f35b
+D s-conca3.ads		20120510125823 762a026a
+D s-conca5.ads		20120510125823 1039cea1
+D s-crtl.ads		20120510125824 ac77b159
+D s-exctab.ads		20120510125824 66e51330
+D s-ficobl.ads		20120510125825 443b9d66
+D s-finmas.ads		20120510125825 b95bb341
+D s-finroo.ads		20120510125825 4ff27390
+D s-imgrea.ads		20120510125826 c7a851e2
+D s-oscons.ads		20120511081643 546ce92a
+D s-parame.ads		20120510125832 b6e20cc0
+D s-pooglo.ads		20120510125832 542f33d0
+D s-secsta.ads		20120510125833 eea35a36
+D s-soflin.ads		20120510125833 24c8153c
+D s-stache.ads		20120510125834 596fc1b4
+D s-stalib.ads		20120510125834 f78bcf95
+D s-stoele.ads		20120510125834 facd7d98
+D s-stoele.adb		20120510125834 afc5dc80
+D s-stopoo.ads		20120510125834 7b8fbeee
+D s-traent.ads		20120510125838 5221ee41
+D s-unstyp.ads		20120510125838 6ae15c76
+D s-valrea.ads		20120510125839 fe297711
+D s-wchcon.ads		20120510125840 bfeb2e3d
+D variablesmd.ads	20121031031324 648fdc31
+X 1 ada.ads
+16K9*Ada 19e8 21|2r6 2r29 22|1r6 1r45 2r6 2r45 3r6 3r45 4r6 4r45 5r6 5r45
+. 9r6 9r29
+X 4 a-comlin.ads
+38K13*Command_Line 139e21 21|2w10 2r33 22|9w10 9r33
+X 8 a-numeri.ads
+16K13*Numerics 32e17 22|4r10 4r49 5r10 5r49
+X 9 a-nuelfu.ads
+18K22*Elementary_Functions[10|39] 22|4w19 4r58
+X 10 a-ngelfu.ads
+56V13*Exp{float} 22|43s46[9|18]
+X 11 a-ngrear.ads
+43A9*Real_Vector(float)<integer> 22|73r22[12|18]
+X 12 a-nurear.ads
+18K22*Real_Arrays[11|38] 22|5w19 5r58
+X 14 a-string.ads
+16K13*Strings 35e16 22|2w10 2r49 3r10 3r49
+33n37*Both{33E9} 22|27r69 29r73
+X 15 a-strfix.ads
+18K21*Fixed 251e22 22|3w18 3r57
+36V13*Index{natural} 22|26s25
+148U14*Replace_Slice 22|28s17
+195V13*Trim{string} 22|27s42 29s42
+X 18 a-textio.ads
+49K13*Text_IO 471e16 22|1w10 1r49
+52P9*File_Type(369R9) 22|15r27 91r21
+53E9*File_Mode 53e54 22|16r24
+53n23*In_File{53E9} 22|16r44 20r30
+53n32*Out_File{53E9} 22|97r46
+86U14*Create 22|102s41
+89s7 Name{string} 22|102r55
+92U14*Open 22|20s17 97s33
+98U14*Close 22|32s17 116s25
+183V13*End_Of_File{boolean} 22|21s22
+253V13*Get_Line{string} 22|23s35
+259U14*Put_Line 22|112s25 114s33
+263U14*Put_Line 22|126s25 128s33
+292X4*Status_Error 22|103r38
+294X4*Name_Error 22|100r38
+295X4*Use_Error 22|106r38
+X 21 busqueda_directa.ads
+5K9*busqueda_directa 12l5 12e21 22|12b14 135l5 135t21
+6U19*lee_archivo_de_datos 6>40 22|14b19 35l13 35t33
+6s40 Nombre_Entrada{string} 22|14b40 20r39
+7U19*calcula_k_tau 22|37b19 58l8 58t21
+8V19*parametros_recta{51|15R14} 8>37 8>41 22|55s31 60b19 66l13 66t29
+8r37 p1{51|15R14} 22|60b37 63r38 63r54
+8r41 p2{51|15R14} 22|60b41 63r31 63r47 64r30 64r47
+9U19*evalua_modelo 22|71b19 85l13 85t26
+10V18*guarda_datos_modelo{boolean} 10>38 22|90b18 119l13 119t32
+10s38 Nombre_Salida{string} 22|90b38 97r56 102r63
+11U19*imprimir_datos_modelo 22|124b19 130l13 130t34
+X 22 busqueda_directa.adb
+15p17 Arch{18|52P9} 20m24 20r24 21r35 23r45 32m24 32r24
+16e17 Mode{18|53E9}
+17i17 Conta{natural} 25m17 25r26 27r19 29r19 33r22
+18i17 indb{natural} 26m17 27r59 28r43
+23a17 Linea{string} 26r32 26r41 27r48 28r33 29r48 29r59
+38f17 v63{long_float} 43m17 45r47 48r43 56r34
+39i17 iv63{integer} 44m17 45r38 46m25 46r33 48r34 49r46 51r46 52r46 53r46
+. 54r46
+40r17 p1{51|15R14} 51m25 52m25 55r49
+40r21 p2{51|15R14} 53m25 54m25 55r53
+40r25 p3{51|15R14} 55m25 56r38 56r44
+61r17 regreso{51|15R14} 63m17 64m17 64r37 65r24
+72f17 Ts{long_float} 77m17 79r45 79r49 80r46 80r60
+73a17 vz{11|43A9[12|18]} 79r73 79r79 80m25 80r84 81m25 81r34
+74f17 r{long_float} 80r41
+78i21 i{integer} 79r28 82r29 82r37 82r43 83r55
+91p12 Arch{18|52P9} 97m40 97r40 102m49 102r49 112r34 114r42 116m32 116r32
+92b12 regreso{boolean} 108m41 111r20 118r24
+113i29 i{integer} 114r50 114r68
+127i29 i{integer} 128r44 128r62
+X 23 gnat.ads
+34K9*GNAT 22|7r6 7r45 23|37e9
+X 24 g-socket.ads
+58K14*Sockets 22|7w11 7r50 24|1249e17
+X 25 interfac.ads
+36K9*Interfaces 22|6r6 6r45 25|175e15
+X 26 i-c.ads
+18K20*C 22|6w17 6r56 26|230e17
+X 28 system.ads
+37K9*System 21|3w6 22|10w6 28|151e11
+X 51 variablesmd.ads
+3K9*variablesmd 21|1w6 1r29 22|8w6 8r45 51|21e16
+5f9*kd{long_float} 22|42m17 79r42 112r40 126r34
+5f13*taud{long_float} 22|49m25 56m25 79r56 80r53 80r67 112r55 126r49
+7i9*n{integer} 22|33m17 42r36 43r38 78r29 113r37 127r37
+8f9*Ts{long_float} 22|34m17
+9a9*t{11|43A9[12|18]} 22|27m17 34r35 34r42 49r44 51r44 53r44 77r35 77r40
+. 114r48 128r42
+10a9*v{11|43A9[12|18]} 22|29m17 42r34 43r36 45r36 48r32 52r44 54r44 82r35
+12a9*err{11|43A9[12|18]} 22|82m25 83r51
+13f9*ISEd{long_float} 22|76m17 83m25 83r33 112r72 126r66
+14a9*yd{11|43A9[12|18]} 22|79m25 82r40 114r65 128r59
+15R14*T_Punto 21|8r49 8r65 22|40r30 60r49 60r65 61r27 51|19e19
+17f17*x{long_float} 22|51m28 53m28 56r47 63m25 63r50 63r57 64r45 64r50
+18f17*y{long_float} 22|52m28 54m28 56r41 63r34 63r41 64m25 64r33
+

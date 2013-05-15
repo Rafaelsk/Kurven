@@ -1,0 +1,10 @@
+project Entonacion is
+
+   for Main use ("entonar.adb");
+
+   package Compiler is
+      for Default_Switches ("ada") use ("-gnatwa", "-O2", "-gnatf");
+   end Compiler;
+
+end Entonacion;
+

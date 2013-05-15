@@ -1,0 +1,175 @@
+V "GNAT Lib v2012"
+M P W=b
+A --RTS=rts-native
+P SS ZX
+R nnnnnnnnnnnnnnnnnnnnnnnnvvnnnnnnnnnnnnnnnvnnvnvnnvnvnnnnnnvnnvnnnnnnvnvnnnnnnnv1+nnnnnn
+
+U fbp1c%b		fbp1c.adb		857a750a NE OO SU IL
+W ada%s			ada.ads			ada.ali
+W ada.command_line%s	a-comlin.adb		a-comlin.ali
+W ada.real_time%s	a-reatim.adb		a-reatim.ali
+W ada.streams%s		a-stream.ads		a-stream.ali
+W ada.strings%s		a-string.ads		a-string.ali
+W ada.strings.fixed%s	a-strfix.adb		a-strfix.ali
+W ada.tags%s		a-tags.adb		a-tags.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+W evaluar_modelo%s	evaluar_modelo.adb	evaluar_modelo.ali
+W gnat%s		gnat.ads		gnat.ali
+W gnat.sockets%s	g-socket.adb		g-socket.ali
+W system%s		system.ads		system.ali
+W system.concat_3%s	s-conca3.adb		s-conca3.ali
+W system.concat_6%s	s-conca6.adb		s-conca6.ali
+W system.img_real%s	s-imgrea.adb		s-imgrea.ali
+W system.parameters%s	s-parame.adb		s-parame.ali
+W system.secondary_stack%s  s-secsta.adb	s-secsta.ali
+W system.soft_links%s	s-soflin.adb		s-soflin.ali
+W system.strings.stream_ops%s  s-ststop.adb	s-ststop.ali
+W system.task_info%s	s-tasinf.adb		s-tasinf.ali
+W system.tasking%s	s-taskin.adb		s-taskin.ali
+W system.tasking.stages%s  s-tassta.adb		s-tassta.ali
+W system.val_int%s	s-valint.adb		s-valint.ali
+W system.val_real%s	s-valrea.adb		s-valrea.ali
+W variables%s		variables.ads		variables.ali
+
+D ada.ads		20120510125803 3ffc8e18
+D a-charac.ads		20120510125749 2d3ec45b
+D a-chlat1.ads		20120510125749 2825df20
+D a-comlin.ads		20120510125750 e0accaa5
+D a-except.ads		20120510125752 ec1b44c1
+D a-finali.ads		20120510125753 52ecdc1b
+D a-ioexce.ads		20120510125753 8b9de6cd
+D a-numeri.ads		20120510125755 bb51c45a
+D a-ngrear.ads		20120510125754 86992c51
+D a-nurear.ads		20120510125755 3158da1f
+D a-reatim.ads		20120510125755 63f07669
+D a-stream.ads		20120510125756 2ca4ee37
+D a-string.ads		20120510125757 90ac6797
+D a-strfix.ads		20120510125756 d07c346e
+D a-strmap.ads		20120510125757 9cb836fb
+D a-tags.ads		20120510125759 6c0509d0
+D a-textio.ads		20120510125800 386df5d4
+D a-unccon.ads		20120510125801 f9eb8f06
+D a-uncdea.ads		20120510125801 f15a5ed1
+D evaluar_modelo.ads	20120727105116 07b9a3a8
+D fbp1c.adb		20120728062627 719cc936
+D gnat.ads		20120510125813 fd2ad2f1
+D g-socket.ads		20120510125811 0c5639de
+D interfac.ads		20120510125815 129923ea
+D i-c.ads		20120510125814 5421119b
+D i-cstrea.ads		20120510125814 1bd72c32
+D system.ads		20120510125846 72a1f35b
+D s-atacco.ads		20120510125819 4c36d12f
+D s-conca3.ads		20120510125823 762a026a
+D s-conca6.ads		20120510125823 c7caf514
+D s-crtl.ads		20120510125824 ac77b159
+D s-exctab.ads		20120510125824 66e51330
+D s-ficobl.ads		20120510125825 443b9d66
+D s-finmas.ads		20120510125825 b95bb341
+D s-finroo.ads		20120510125825 4ff27390
+D s-imgrea.ads		20120510125826 c7a851e2
+D s-linux.ads		20120510125827 70c7cb45
+D s-multip.ads		20120510125828 38ac9f73
+D s-oscons.ads		20120511081643 546ce92a
+D s-osinte.ads		20120510125829 938b6b03
+D s-parame.ads		20120510125832 b6e20cc0
+D s-pooglo.ads		20120510125832 542f33d0
+D s-secsta.ads		20120510125833 eea35a36
+D s-soflin.ads		20120510125833 24c8153c
+D s-stache.ads		20120510125834 596fc1b4
+D s-stausa.ads		20120510125834 017a0a05
+D s-stalib.ads		20120510125834 f78bcf95
+D s-stoele.ads		20120510125834 facd7d98
+D s-stoele.adb		20120510125834 afc5dc80
+D s-stopoo.ads		20120510125834 7b8fbeee
+D s-string.ads		20120510125834 46b01415
+D s-ststop.ads		20120510125834 ee472be4
+D s-tasinf.ads		20120510125835 21316953
+D s-taspri.ads		20120510125836 15f617a8
+D s-taprop.ads		20120510125835 1dd2e1b6
+D s-taskin.ads		20120510125836 5e24fb30
+D s-tassta.ads		20120510125836 3a253871
+D s-traent.ads		20120510125838 5221ee41
+D s-unstyp.ads		20120510125838 6ae15c76
+D s-valint.ads		20120510125839 48a52a3f
+D s-valrea.ads		20120510125839 fe297711
+D s-wchcon.ads		20120510125840 bfeb2e3d
+D variables.ads		20120726162038 15b9b999
+X 1 ada.ads
+16K9*Ada 19e8 21|1r6 1r61 3r6 3r61 4r6 4r45 5r6 5r29
+X 4 a-comlin.ads
+38K13*Command_Line 139e21 21|5w10 5r33
+48V13*Argument{string} 21|28s41 29s43 45s47 52s87 53s83
+X 9 a-ngrear.ads
+43A9*Real_Vector(float)<integer>
+X 13 a-string.ads
+16K13*Strings 35e16 21|3w10 3r65 4r10 4r49
+33n37*Both{33E9} 21|107r77 109r79
+X 14 a-strfix.ads
+18K21*Fixed 251e22 21|4w18 4r57
+36V13*Index{natural} 21|106s33
+148U14*Replace_Slice 21|108s25
+195V13*Trim{string} 21|107s52 109s52
+X 17 a-textio.ads
+49K13*Text_IO 471e16 21|1w10 1r65
+263U14*Put_Line 21|126s17
+X 20 evaluar_modelo.ads
+5K9*evaluar_modelo 10e19 21|8w6 8r45
+6U19*evalua_modelo 21|31s17 76s25
+7V18*guarda_datos_modelos{boolean} 21|121s25
+8U19*lee_archivo_datostxt 21|27s17
+9U19*lee_archivo_de_datos 21|133s17
+X 21 fbp1c.adb
+10U11*fbp1c 10b11 138l5 138t10
+12r9 Server_Addr{23|505R9} 51m17 59r39
+13i9 Sock{23|412I9} 57m32 57r32 59r33 61r30 112r30
+14p9 S{23|993P9} 61m17 64r32 98r32 100r54 111r32
+15i9 indb{natural} 106m25 107r67 108r48
+16f9 tau_pro{long_float} 47m17 64r56 75r36
+17f9 mtau2{long_float} 107m25 118r33
+17f16 mISE2{long_float} 109m25 116r20 117r33
+18f9 kd{long_float} 28m17 31r31 76r39
+19f9 taud{long_float} 29m17 31r35 42r25 43r33 44r33
+20b9 tempB{boolean} 121m17
+21t14 tareafb 25b14 134l13 134t20
+100a25 Str{string} 106r40 107r58 108m40 108r40 109r58 109r67
+X 22 gnat.ads
+34K9*GNAT 21|2r6 2r53 22|37e9
+X 23 g-socket.ads
+58K14*Sockets 21|2w11 2r58 23|1249e17
+379U14*Initialize 21|50s17
+403U14*Finalize 21|113s17
+412I9*Socket_Type 21|13r27
+463n25*Family_Inet{463E9} 21|12r38 51r41
+479I9*Port_Type<integer> 21|53r57
+505R9*Sock_Addr_Type 21|12r23 23|508e14
+549V13*Addresses{488R9} 21|52s57
+566V13*Get_Host_By_Name{532R9} 21|52s68
+805U14*Create_Socket 21|57s17
+841U14*Close_Socket 21|112s17
+844U14*Connect_Socket 21|59s17
+993P9*Stream_Access(12|39R9) 21|14r35
+996V13*Stream{993P9} 21|61s22
+X 27 system.ads
+37K9*System 21|6w6 22r24 27|151e11
+102i4*Max_Priority{positive} 21|22r31
+X 63 variables.ads
+3K9*variables 21|7w6 7r61 63|35e14
+8f9*Ts{long_float} 21|31r41 76r53
+11a9*m{9|43A9[10|18]} 21|37r23 81r40
+12a9*err{9|43A9[10|18]} 21|38r25 82r42
+13f9*ISE{long_float} 21|32r25 77r37
+14a9*md{9|43A9[10|18]} 21|37m17
+15a9*errd{9|43A9[10|18]} 21|38m17
+16f9*ISEd{long_float} 21|32m17 41r25
+17a9*mfb{9|43A9[10|18]} 21|81m33
+18a9*errfb{9|43A9[10|18]} 21|82m33
+21f13*mtau{long_float} 21|42m17 80m33 118m25 126r27
+21f19*mISE{long_float} 21|41m17 78r40 79m33 116r29 117m25 126r44
+22f9*tau_min{long_float} 21|43m17 47r40 71r29
+22f18*tau_max{long_float} 21|44m17 47r30 64r86
+22f27*tau_paso{long_float} 21|45m17 64r64 64r106 91r48
+22f37*tau_temp{long_float} 21|71m17 75r24 76r43 80r41 91m25 91r37
+23f9*ISE_temp{long_float} 21|77m25 78r29 79r41
+24i28*indice{integer} 21|73m17
+24i36*contador{integer} 21|74m17 92m25 92r37
+

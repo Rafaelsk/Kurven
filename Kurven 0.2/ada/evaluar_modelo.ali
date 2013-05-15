@@ -1,0 +1,152 @@
+V "GNAT Lib v2012"
+A -gnatf
+A -gnatA
+P SS ZX
+R nnnnnnnnnnnnnnnnnnvnnvnnvvnnnnnnnnnnnnnnnvnnvnnnnnnnnnnnnnvnnvnvnnnnnnvnnnnnnnnnnnnnn
+
+U evaluar_modelo%b	evaluar_modelo.adb	c61e8097 NE OO PK IL
+W ada%s			ada.ads			ada.ali
+W ada.command_line%s	a-comlin.adb		a-comlin.ali
+W ada.numerics%s	a-numeri.ads		a-numeri.ali
+W ada.numerics.elementary_functions%s  a-nuelfu.ads  a-nuelfu.ali
+W ada.numerics.real_arrays%s  a-nurear.ads	a-nurear.ali
+W ada.strings%s		a-string.ads		a-string.ali
+W ada.strings.fixed%s	a-strfix.adb		a-strfix.ali
+W ada.tags%s		a-tags.adb		a-tags.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+W interfaces%s		interfac.ads		interfac.ali
+W system%s		system.ads		system.ali
+W system.concat_3%s	s-conca3.adb		s-conca3.ali
+W system.img_real%s	s-imgrea.adb		s-imgrea.ali
+W system.secondary_stack%s  s-secsta.adb	s-secsta.ali
+W system.val_real%s	s-valrea.adb		s-valrea.ali
+W variables%s		variables.ads		variables.ali
+
+U evaluar_modelo%s	evaluar_modelo.ads	fbc541a3 EE NE OO PK IL
+W ada%s			ada.ads			ada.ali
+W ada.command_line%s	a-comlin.adb		a-comlin.ali
+W system%s		system.ads		system.ali
+W variables%s		variables.ads		variables.ali
+
+D ada.ads		20120510125803 3ffc8e18
+D a-charac.ads		20120510125749 2d3ec45b
+D a-chlat1.ads		20120510125749 2825df20
+D a-comlin.ads		20120510125750 e0accaa5
+D a-except.ads		20120510125752 ec1b44c1
+D a-finali.ads		20120510125753 52ecdc1b
+D a-ioexce.ads		20120510125753 8b9de6cd
+D a-numeri.ads		20120510125755 bb51c45a
+D a-nuelfu.ads		20120510125755 03e83d1c
+D a-ngelfu.ads		20120510125754 243903c9
+D a-ngrear.ads		20120510125754 86992c51
+D a-nurear.ads		20120510125755 3158da1f
+D a-stream.ads		20120510125756 2ca4ee37
+D a-string.ads		20120510125757 90ac6797
+D a-strfix.ads		20120510125756 d07c346e
+D a-strmap.ads		20120510125757 9cb836fb
+D a-tags.ads		20120510125759 6c0509d0
+D a-textio.ads		20120510125800 386df5d4
+D a-unccon.ads		20120510125801 f9eb8f06
+D evaluar_modelo.ads	20121124013647 7c71c1c4
+D evaluar_modelo.adb	20121124014346 77d6801a
+D interfac.ads		20120510125815 129923ea
+D i-cstrea.ads		20120510125814 1bd72c32
+D system.ads		20120510125846 72a1f35b
+D s-conca3.ads		20120510125823 762a026a
+D s-crtl.ads		20120510125824 ac77b159
+D s-exctab.ads		20120510125824 66e51330
+D s-ficobl.ads		20120510125825 443b9d66
+D s-finmas.ads		20120510125825 b95bb341
+D s-finroo.ads		20120510125825 4ff27390
+D s-imgrea.ads		20120510125826 c7a851e2
+D s-parame.ads		20120510125832 b6e20cc0
+D s-pooglo.ads		20120510125832 542f33d0
+D s-secsta.ads		20120510125833 eea35a36
+D s-soflin.ads		20120510125833 24c8153c
+D s-stache.ads		20120510125834 596fc1b4
+D s-stalib.ads		20120510125834 f78bcf95
+D s-stoele.ads		20120510125834 facd7d98
+D s-stoele.adb		20120510125834 afc5dc80
+D s-stopoo.ads		20120510125834 7b8fbeee
+D s-traent.ads		20120510125838 5221ee41
+D s-unstyp.ads		20120510125838 6ae15c76
+D s-valrea.ads		20120510125839 fe297711
+D s-wchcon.ads		20120510125840 bfeb2e3d
+D variables.ads		20120726115038 15b9b999
+X 1 ada.ads
+16K9*Ada 19e8 20|2r6 2r29 21|1r6 1r45 2r6 2r45 3r6 3r45 4r6 4r45 5r6 5r45
+. 7r6 7r45
+X 4 a-comlin.ads
+38K13*Command_Line 139e21 20|2w10 2r33 21|7w10 7r49
+X 8 a-numeri.ads
+16K13*Numerics 32e17 21|4r10 4r49 5r10 5r49
+X 9 a-nuelfu.ads
+18K22*Elementary_Functions[10|39] 21|4w19 4r58
+X 11 a-ngrear.ads
+43A9*Real_Vector(float)<integer> 21|17r22[12|18]
+X 12 a-nurear.ads
+18K22*Real_Arrays[11|38] 21|5w19 5r58
+X 14 a-string.ads
+16K13*Strings 35e16 21|2w10 2r49 3r10 3r49
+33n37*Both{33E9} 21|74r69 76r73 99r69 101r73
+X 15 a-strfix.ads
+18K21*Fixed 251e22 21|3w18 3r57
+36V13*Index{natural} 21|73s25 98s25
+148U14*Replace_Slice 21|75s17 100s17
+195V13*Trim{string} 21|74s42 76s42 99s42 101s42
+X 18 a-textio.ads
+49K13*Text_IO 471e16 21|1w10 1r49
+52P9*File_Type(369R9) 21|30r26 61r26 87r26
+53n23*In_File{53E9} 21|66r22 91r30
+53n32*Out_File{53E9} 21|36r46
+86U14*Create 21|41s41
+89s7 Name{string} 21|41r55
+92U14*Open 21|36s33 66s9 91s17
+98U14*Close 21|55s25 80s9 105s9
+183V13*End_Of_File{boolean} 21|67s22 92s22
+253V13*Get_Line{string} 21|69s35 94s35
+259U14*Put_Line 21|53s33
+263U14*Put_Line 21|40s41 43s41 46s41 102s17
+292X4*Status_Error 21|42r38
+294X4*Name_Error 21|39r38
+295X4*Use_Error 21|45r38
+X 20 evaluar_modelo.ads
+5K9*evaluar_modelo 10l5 10e19 21|13b14 109l5 109t19
+6U19*evalua_modelo 6>35 6>39 6>45 21|16b19 27l13 27t26
+6f35 kt{long_float} 21|16b35 21r41
+6f39 taut{long_float} 21|16b39 21r55 22r53 22r67
+6f45 Tt{long_float} 21|16b45 21r44 21r48 22r46 22r60
+7V18*guarda_datos_modelos{boolean} 7>39 21|29b18 58l13 58t33
+7s39 Nombre_Salida{string} 21|29b39 36r56 41r63
+8U19*lee_archivo_datostxt 21|60b27 84l8 84t28
+9U19*lee_archivo_de_datos 9>40 21|86b19 107l13 107t33
+9s40 Nombre_Salida{string} 21|86b40 91r39
+X 21 evaluar_modelo.adb
+17a17 vz{11|43A9[12|18]} 21r72 21r78 22m25 22r84 23m25 23r34
+20i21 i{integer} 21r27 24r29 24r37 24r42 25r53
+30p17 Arch{18|52P9} 36m40 36r40 41m49 41r49 53r42 55m32 55r32
+31b17 regreso{boolean} 47m41 50r20 57r24
+52i29 i{integer} 53r50 53r69
+61p17 Arch{18|52P9} 66m16 66r16 67r35 69r45 80m16 80r16
+62a12 Nombre{string} 66r31
+63i9 Conta{natural} 71m17 71r26 74r19 76r19 82r14
+64i9 indb{natural} 73m17 74r59 75r43
+69a17 Linea{string} 73r32 73r41 74r48 75r33 76r48 76r59
+87p17 Arch{18|52P9} 91m24 91r24 92r35 94r45 105m16 105r16
+88i17 Conta{natural} 96m17 96r26 99r19 101r19 102r28 102r49
+89i17 indb{natural} 98m17 99r59 100r43
+94a17 Linea{string} 98r32 98r41 99r48 100r33 101r48 101r59
+X 24 system.ads
+37K9*System 20|3w6 21|8w6 24|151e11
+X 45 variables.ads
+3K9*variables 20|1w6 1r21 21|6w6 6r45 45|35e14
+4f9*r{long_float} 21|22r41
+7i9*n{integer} 21|20r29 52r37 82m9
+8f9*Ts{long_float} 21|83m9
+9a9*t{11|43A9[12|18]} 21|53r48 74m17 83r27 83r34 99m17 102r26
+10a9*v{11|43A9[12|18]} 21|24r35 76m17 101m17 102r47
+11a9*m{11|43A9[12|18]} 21|21m25 24r40
+12a9*err{11|43A9[12|18]} 21|24m25 25r49
+13f9*ISE{long_float} 21|19m17 25m25 25r32
+17a9*mfb{11|43A9[12|18]} 21|53r65
+

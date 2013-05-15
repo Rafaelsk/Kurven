@@ -1,0 +1,187 @@
+V "GNAT Lib v2012"
+M P W=b
+A -gnatf
+A -gnatA
+P SS ZX
+R nnnnnnnnnvvnnnnnnnvnnvnvvvnnnvnnnnnnnnnvnvnnvnnnnvnvnnnnnnvnnvnvnnnnnnvnnnnnnnv1+nnnnnn
+
+U fuzzytuning%b		fuzzytuning.adb		fe7371f3 NE OO SU IL KM
+W ada%s			ada.ads			ada.ali
+W ada.calendar.delays%s	a-caldel.adb		a-caldel.ali
+W ada.command_line%s	a-comlin.adb		a-comlin.ali
+W ada.numerics%s	a-numeri.ads		a-numeri.ali
+W ada.numerics.real_arrays%s  a-nurear.ads	a-nurear.ali
+W ada.real_time%s	a-reatim.adb		a-reatim.ali
+W ada.real_time.delays%s  a-retide.adb		a-retide.ali
+W ada.tags%s		a-tags.adb		a-tags.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+W biblioteca_esp_curv%s	biblioteca_esp_curv.adb	biblioteca_esp_curv.ali
+W biblioteca_fuzzytuning%s  biblioteca_fuzzytuning.adb  biblioteca_fuzzytuning.ali
+W system%s		system.ads		system.ali
+W system.concat_3%s	s-conca3.adb		s-conca3.ali
+W system.img_real%s	s-imgrea.adb		s-imgrea.ali
+W system.parameters%s	s-parame.adb		s-parame.ali
+W system.secondary_stack%s  s-secsta.adb	s-secsta.ali
+W system.soft_links%s	s-soflin.adb		s-soflin.ali
+W system.task_info%s	s-tasinf.adb		s-tasinf.ali
+W system.tasking%s	s-taskin.adb		s-taskin.ali
+W system.tasking.stages%s  s-tassta.adb		s-tassta.ali
+W system.val_real%s	s-valrea.adb		s-valrea.ali
+W variables_fuzzytuning%s  variables_fuzzytuning.ads  variables_fuzzytuning.ali
+
+D ada.ads		20120510125803 3ffc8e18
+D a-calend.ads		20120510125748 d86d6c8c
+D a-caldel.ads		20120510125748 9f20b83d
+D a-comlin.ads		20120510125750 e0accaa5
+D a-except.ads		20120510125752 ec1b44c1
+D a-finali.ads		20120510125753 52ecdc1b
+D a-ioexce.ads		20120510125753 8b9de6cd
+D a-numeri.ads		20120510125755 bb51c45a
+D a-ngrear.ads		20120510125754 86992c51
+D a-nurear.ads		20120510125755 3158da1f
+D a-reatim.ads		20120510125755 63f07669
+D a-retide.ads		20120510125755 081cdaa4
+D a-stream.ads		20120510125756 2ca4ee37
+D a-tags.ads		20120510125759 6c0509d0
+D a-textio.ads		20120510125800 386df5d4
+D a-unccon.ads		20120510125801 f9eb8f06
+D biblioteca_esp_curv.ads  20121123012301 971608f5
+D biblioteca_fuzzytuning.ads  20121124160531 af81f190
+D fuzzytuning.adb	20121124161846 49472a9e
+D interfac.ads		20120510125815 129923ea
+D i-c.ads		20120510125814 5421119b
+D i-cstrea.ads		20120510125814 1bd72c32
+D system.ads		20120510125846 72a1f35b
+D s-atacco.ads		20120510125819 4c36d12f
+D s-conca3.ads		20120510125823 762a026a
+D s-crtl.ads		20120510125824 ac77b159
+D s-exctab.ads		20120510125824 66e51330
+D s-ficobl.ads		20120510125825 443b9d66
+D s-finmas.ads		20120510125825 b95bb341
+D s-finroo.ads		20120510125825 4ff27390
+D s-imgrea.ads		20120510125826 c7a851e2
+D s-linux.ads		20120510125827 70c7cb45
+D s-multip.ads		20120510125828 38ac9f73
+D s-oscons.ads		20120511081643 546ce92a
+D s-osinte.ads		20120510125829 938b6b03
+D s-parame.ads		20120510125832 b6e20cc0
+D s-pooglo.ads		20120510125832 542f33d0
+D s-secsta.ads		20120510125833 eea35a36
+D s-soflin.ads		20120510125833 24c8153c
+D s-stache.ads		20120510125834 596fc1b4
+D s-stausa.ads		20120510125834 017a0a05
+D s-stalib.ads		20120510125834 f78bcf95
+D s-stoele.ads		20120510125834 facd7d98
+D s-stoele.adb		20120510125834 afc5dc80
+D s-stopoo.ads		20120510125834 7b8fbeee
+D s-tasinf.ads		20120510125835 21316953
+D s-taspri.ads		20120510125836 15f617a8
+D s-taprop.ads		20120510125835 1dd2e1b6
+D s-taskin.ads		20120510125836 5e24fb30
+D s-tassta.ads		20120510125836 3a253871
+D s-traent.ads		20120510125838 5221ee41
+D s-unstyp.ads		20120510125838 6ae15c76
+D s-valrea.ads		20120510125839 fe297711
+D s-wchcon.ads		20120510125840 bfeb2e3d
+D variables_esp_curv.ads  20121123154207 d8693c08
+D variables_fuzzytuning.ads  20121123134107 776bc254
+X 1 ada.ads
+16K9*Ada 19e8 19|1r6 1r45 2r6 2r45 6r6 6r45 7r6 7r45
+X 4 a-comlin.ads
+38K13*Command_Line 139e21 19|2w10 2r49
+48V13*Argument{string} 19|12s44 17s48 18s48
+X 8 a-numeri.ads
+16K13*Numerics 32e17 19|7r10 7r49
+X 9 a-ngrear.ads
+43A9*Real_Vector(float)<integer> 19|29r27[10|18] 54r35[10|18] 96r43[10|18]
+X 10 a-nurear.ads
+18K22*Real_Arrays[9|38] 19|7w19 7r58
+X 11 a-reatim.ads
+39K13*Real_Time 139e18 19|6w10 6r49
+41O9*Time 19|55r35 56r35 93r35 94r43
+46O9*Time_Span 19|34r36 35r36
+53V13*Clock{41O9} 19|68s52 102s57
+55V14*"+"{41O9} 19|78s74 109s80
+85V13*Milliseconds{46O9} 19|34s52 35s52
+X 15 a-textio.ads
+49K13*Text_IO 471e16 19|1w10 1r49
+52P9*File_Type(369R9) 19|117r62
+53n32*Out_File{53E9} 19|124r82
+86U14*Create 19|129s73
+89s7 Name{string} 19|129r91
+92U14*Open 19|124s65
+98U14*Close 19|143s57
+259U14*Put_Line 19|141s65
+292X4*Status_Error 19|130r70
+294X4*Name_Error 19|127r70
+295X4*Use_Error 19|133r70
+X 17 biblioteca_esp_curv.ads
+4K9*biblioteca_esp_curv 11e24 19|8w6 8r45
+10U19*especificaciones_curva 19|157s17 182s25
+X 18 biblioteca_fuzzytuning.ads
+4K9*biblioteca_fuzzytuning 14e27 19|5w6 5r45
+5U19*Fuzzificar 19|167s25
+6U19*Inferencia_Fuzzy 19|168s25
+10U19*Desfuzzificar 19|169s25
+11U19*calcular_ganancias_pi 19|170s25
+12U19*mostrar_resultado 19|171s25 186s17
+X 19 fuzzytuning.adb
+10U11*fuzzytuning 10b11 195l5 195t16
+12a9 Nombre_Archivo{string} 157r40
+17f9 k{float} 32r52 170r47
+18f9 tau{float} 33r52 170r49
+19f9 Tr_recibido{float} 157m56 157r56 166r44 182m66 182r66
+19f22 TAS_recibido{float} 157m69 157r69 159r36 182m79 182r79 184r44
+19f36 MP_recibido{float} 157m83 157r83 165r44 182m93 182r93
+24f9 TsP_sim{float} 34r79 66r84 72r77 72r99 73r74 73r83 76r77
+25f9 TsC_sim{float} 27r58 35r79 108r63 108r101
+26f9 n_sim{float} 27r52 63r74
+27f9 nmax_sim{float}
+28f9 Estado_Planta_sim{float} 74m41 106r67
+29a9 t_sim{9|43A9[10|18]} 76m41 141r84
+30f9 u_sim{float} 72r68 108m49
+31b9 Salida_sim{boolean} 83m33 113r59 115m33
+32f9 k_sim{float} 73r68 106r59
+33f9 tau_sim{float} 72r89 72r111 73r95
+34o9 PeriodoP_sim{11|46O9} 78r76
+35o9 PeriodoC_sim{11|46O9} 109r82
+36i9 Tiempo_Simul_sim{integer} 63m33 66r66
+37i9 it_sim{integer} 66m33 70r45 138r63
+38a9 Nombre_sim{string} 124r92 129r99
+39a9 y_sim(float) 73m41 74r68 141r105
+40t14 Simular_Planta 53b19 90l13 90t27
+44t14 Simular_Controlador 92b19 152l13 152t32
+48t14 flujo_principal 155b19 188l13 188t28
+54a17 vz_sim{9|43A9[10|18]} 72m41 72r121 73r105 73r115 80m41 80r54 85m33
+. 86m33
+55o17 Siguiente_sim{11|41O9} 69m33 78m41 78r60 79r54
+56o17 t_inicio_sim{11|41O9} 68m33 69r52
+70i37 i{integer} 73r47 74r74 76r47 76r74
+93o17 Siguiente_sim{11|41O9} 103m41 109m49 109r66 111r62
+94o17 t_inicio_sim{11|41O9} 102m41 103r58
+95f17 E_sim{float} 106m49 107r62
+96a17 vz_sim{9|43A9[10|18]} 107m49 107r70 108r84 108r122 112m49 112r62 148m33
+. 149m33
+117p49 Arch_sim{15|52P9} 124m72 124r72 129m81 129r81 141r74 143m64 143r64
+118b49 regreso_sim{boolean} 135m73 139r52
+119i49 limite_sim{integer} 138m49 140r69
+140i61 i{integer} 141r90 141r111
+161i21 i{integer}
+X 23 system.ads
+37K9*System 19|3w6 41r34 45r34 49r33 23|151e11
+105I12*Any_Priority{integer}
+106I12*Priority{105I12}
+109i4*Default_Priority{106I12} 19|41r41 45r41 49r40
+X 56 variables_fuzzytuning.ads
+3K9*variables_fuzzytuning 19|4w6 4r45 56|77e26
+19f25*INICIAL{float} 19|159m21 160r40
+20f25*ACTUAL{float} 19|160m21 184m29
+34f25*VALOR{float} 19|165m28
+69f9*Kp{float} 19|108r75 108r113
+70f9*Ki{float} 19|108r60 108r98
+71r9*TAS{16R14} 19|159m17 160m17 160r36 184m25
+72r9*MP{31R14} 19|165m25
+73f9*Tr{float} 19|166m25
+76b9*Run_p{boolean} 19|60r28 87m33 173m25 174r42
+76b16*Run_c{boolean} 19|100r28 147m33 172m25 174r32
+

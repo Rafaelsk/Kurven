@@ -1,0 +1,194 @@
+V "GNAT Lib v2012"
+M P W=b
+A -gnatf
+A -gnatA
+P SS ZX
+R nnnnnnnnnvvnnnnnnnvvnvnvvvnnnnnnnnnnnnnvnvnnvnvnnvnvnnnnnnvnnvnvnnnnnnvnnnnnnnv1+nnnnnn
+
+U planta%b		planta.adb		4e4e419e NE OO SU IL
+W ada%s			ada.ads			ada.ali
+W ada.calendar.delays%s	a-caldel.adb		a-caldel.ali
+W ada.command_line%s	a-comlin.adb		a-comlin.ali
+W ada.exceptions%s	a-except.adb		a-except.ali
+W ada.float_text_io%s	a-flteio.ads		a-flteio.ali
+W ada.numerics%s	a-numeri.ads		a-numeri.ali
+W ada.numerics.real_arrays%s  a-nurear.ads	a-nurear.ali
+W ada.real_time%s	a-reatim.adb		a-reatim.ali
+W ada.real_time.delays%s  a-retide.adb		a-retide.ali
+W ada.streams%s		a-stream.ads		a-stream.ali
+W ada.strings%s		a-string.ads		a-string.ali
+W ada.strings.fixed%s	a-strfix.adb		a-strfix.ali
+W ada.tags%s		a-tags.adb		a-tags.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+W gnat%s		gnat.ads		gnat.ali
+W gnat.sockets%s	g-socket.adb		g-socket.ali
+W interfaces%s		interfac.ads		interfac.ali
+W system%s		system.ads		system.ali
+W system.img_real%s	s-imgrea.adb		s-imgrea.ali
+W system.parameters%s	s-parame.adb		s-parame.ali
+W system.secondary_stack%s  s-secsta.adb	s-secsta.ali
+W system.soft_links%s	s-soflin.adb		s-soflin.ali
+W system.strings.stream_ops%s  s-ststop.adb	s-ststop.ali
+W system.task_info%s	s-tasinf.adb		s-tasinf.ali
+W system.tasking%s	s-taskin.adb		s-taskin.ali
+W system.tasking.stages%s  s-tassta.adb		s-tassta.ali
+W system.val_real%s	s-valrea.adb		s-valrea.ali
+
+D ada.ads		20120510125803 3ffc8e18
+D a-calend.ads		20120510125748 d86d6c8c
+D a-caldel.ads		20120510125748 9f20b83d
+D a-charac.ads		20120510125749 2d3ec45b
+D a-chlat1.ads		20120510125749 2825df20
+D a-comlin.ads		20120510125750 e0accaa5
+D a-except.ads		20120510125752 ec1b44c1
+D a-finali.ads		20120510125753 52ecdc1b
+D a-flteio.ads		20120510125753 e18a47a0
+D a-ioexce.ads		20120510125753 8b9de6cd
+D a-numeri.ads		20120510125755 bb51c45a
+D a-ngrear.ads		20120510125754 86992c51
+D a-nurear.ads		20120510125755 3158da1f
+D a-reatim.ads		20120510125755 63f07669
+D a-retide.ads		20120510125755 081cdaa4
+D a-stream.ads		20120510125756 2ca4ee37
+D a-string.ads		20120510125757 90ac6797
+D a-strfix.ads		20120510125756 d07c346e
+D a-strmap.ads		20120510125757 9cb836fb
+D a-tags.ads		20120510125759 6c0509d0
+D a-textio.ads		20120510125800 386df5d4
+D a-tiflio.ads		20120510125800 56fbda09
+D a-unccon.ads		20120510125801 f9eb8f06
+D a-uncdea.ads		20120510125801 f15a5ed1
+D gnat.ads		20120510125813 fd2ad2f1
+D g-socket.ads		20120510125811 0c5639de
+D interfac.ads		20120510125815 129923ea
+D i-c.ads		20120510125814 5421119b
+D i-cstrea.ads		20120510125814 1bd72c32
+D planta.adb		20121124141541 f7914884
+D system.ads		20120510125846 72a1f35b
+D s-atacco.ads		20120510125819 4c36d12f
+D s-crtl.ads		20120510125824 ac77b159
+D s-exctab.ads		20120510125824 66e51330
+D s-ficobl.ads		20120510125825 443b9d66
+D s-finmas.ads		20120510125825 b95bb341
+D s-finroo.ads		20120510125825 4ff27390
+D s-imgrea.ads		20120510125826 c7a851e2
+D s-linux.ads		20120510125827 70c7cb45
+D s-multip.ads		20120510125828 38ac9f73
+D s-oscons.ads		20120511081643 546ce92a
+D s-osinte.ads		20120510125829 938b6b03
+D s-parame.ads		20120510125832 b6e20cc0
+D s-pooglo.ads		20120510125832 542f33d0
+D s-secsta.ads		20120510125833 eea35a36
+D s-soflin.ads		20120510125833 24c8153c
+D s-stache.ads		20120510125834 596fc1b4
+D s-stausa.ads		20120510125834 017a0a05
+D s-stalib.ads		20120510125834 f78bcf95
+D s-stoele.ads		20120510125834 facd7d98
+D s-stoele.adb		20120510125834 afc5dc80
+D s-stopoo.ads		20120510125834 7b8fbeee
+D s-string.ads		20120510125834 46b01415
+D s-ststop.ads		20120510125834 ee472be4
+D s-tasinf.ads		20120510125835 21316953
+D s-taspri.ads		20120510125836 15f617a8
+D s-taprop.ads		20120510125835 1dd2e1b6
+D s-taskin.ads		20120510125836 5e24fb30
+D s-tassta.ads		20120510125836 3a253871
+D s-traent.ads		20120510125838 5221ee41
+D s-unstyp.ads		20120510125838 6ae15c76
+D s-valrea.ads		20120510125839 fe297711
+D s-wchcon.ads		20120510125840 bfeb2e3d
+X 1 ada.ads
+16K9*Ada 19e8 30|1r6 1r53 3r6 3r53 4r6 4r45 5r6 5r37 6r6 6r45 7r6 7r45 8r6
+. 8r53 10r6 10r26
+X 6 a-comlin.ads
+38K13*Command_Line 139e21 30|5w10 5r41
+48V13*Argument{string} 30|35s80 36s80 38s81
+X 7 a-except.ads
+53K13*Exceptions 354e19 30|10w10 10r30
+X 9 a-flteio.ads
+20K13*Float_Text_IO[22|45] 30|8w10 8r57
+X 11 a-numeri.ads
+16K13*Numerics 32e17 30|7r10 7r49
+X 12 a-ngrear.ads
+43A9*Real_Vector(float)<integer> 30|37r35[13|18]
+X 13 a-nurear.ads
+18K22*Real_Arrays[12|38] 30|7w19 7r58
+X 14 a-reatim.ads
+39K13*Real_Time 139e18 30|6w10 6r49
+41O9*Time 30|40r35 41r35 63r35
+46O9*Time_Span 30|39r35
+53V13*Clock{41O9} 30|44s36 78s52
+55V14*"+"{41O9} 30|51s48 78s58
+85V13*Milliseconds{46O9} 30|39s60 78s60
+X 17 a-string.ads
+16K13*Strings 35e16 30|3w10 3r57 4r10 4r49
+33n37*Both{33E9} 30|115r103 177r103
+X 18 a-strfix.ads
+18K21*Fixed 251e22 30|4w18 4r57
+195V13*Trim{string} 30|115s68 177s68
+X 21 a-textio.ads
+49K13*Text_IO 471e16 30|1w10 1r57
+263U14*Put_Line 30|50s25
+X 25 gnat.ads
+34K9*GNAT 37e9 30|2r6 2r53
+X 26 g-socket.ads
+58K14*Sockets 1249e17 30|2w11 2r58
+412I9*Socket_Type 30|93r51 94r43 155r51 156r43
+451X4*Socket_Error 30|134r22 196r22
+463n25*Family_Inet{463E9} 30|91r58 99r45 160r45
+471n50*Shut_Read_Write{471E9} 30|121r51 183r51
+479I9*Port_Type<integer> 30|99r73 160r73
+494r4*Any_Inet_Addr{488R9} 30|99r58 160r58
+505R9*Sock_Addr_Type 508e14 30|91r43 153r51
+554X4*Host_Error 30|127r22 189r21
+805U14*Create_Socket 30|98s17 161s17
+811U14*Accept_Socket 30|103s17 165s17
+835U14*Bind_Socket 30|100s17 162s17
+841U14*Close_Socket 30|122s17 123s17 184s17 185s17
+884U14*Listen_Socket 30|101s17 163s17
+986U14*Shutdown_Socket 30|121s17 183s17
+993P9*Stream_Access(16|39R9) 30|95r43 157r43
+996V13*Stream{993P9} 30|104s43 166s43
+X 30 planta.adb
+12U11*planta 12b11 215l5 215t11
+14b9 Salida{boolean} 54r35 80m33 111m41 173m41
+14b17 Error_Controlador_A{boolean} 67r30 71r28 131m25 138m25 146m25
+14b38 Error_Controlador_B{boolean} 71r52 193m25 200m25 208m25
+15f9 y{float} 48m25 50r34 116r81 178r81
+15f12 u{float} 47r34 68m52 69m52
+15f15 uA{float} 68r60 115m49
+15f19 uB{float} 69r60 177m49
+17t14 TareaPlanta 34b19 58l13 58t24
+21t14 ControlRedundancia 62b19 87l13 87t31
+25t14 TareaServidorControlA 90b19 149l13 149t34
+29t14 TareaServidorControlB 152b19 211l13 211t34
+35f17 k{float} 48r36
+36f17 tau{float} 47r46 47r59 48r49
+37a17 vz{12|43A9[13|18]} 47m25 47r70 48r60 48r66 53m25 53r34
+38f17 Ts{float} 39r82 47r39 47r52 48r38 48r42
+39o17 Periodo{14|46O9} 51r50
+40o17 Siguiente{14|41O9} 45m17 51m25 51r38 52r38
+41o17 t_inicio{14|41O9} 44m17 45r30
+63o17 dossegundos{14|41O9} 78m33 79r45
+64i17 contador{integer} 71r76 81m33 81r52 83r28
+91r17 Direccion_Control_A{26|505R9} 99m17 100r43 103m62 103r62
+92i17 Puerto_Control_A{natural} 99r83
+93i17 Hueco_Planta{26|412I9} 98m31 98r31 100r29 101r31 103r31 123r30
+94i17 Hueco_Control_A{26|412I9} 103m45 103r45 104r50 121r33 122r30
+95p17 Canal_Control_A{26|993P9} 104m17 108r66 116r64
+108a33 Mensaje{string} 110r36 114r44 115r74 115r87
+141r21 E{7|66R9}
+153r17 Direccion_Control_B{26|505R9} 160m17 162r43 165m62 165r62
+154i17 Puerto_Control_B{natural} 160r83
+155i17 Hueco_Planta{26|412I9} 161m31 161r31 162r29 163r31 165r31 185r30
+156i17 Hueco_Control_B{26|412I9} 165m45 165r45 166r50 183r33 184r30
+157p17 Canal_Control_B{26|993P9} 166m17 170r66 178r64
+170a33 Mensaje{string} 172r36 176r44 177r74 177r87
+203r22 E{7|66R9}
+X 31 system.ads
+37K9*System 30|9w6 18r34 22r34 26r34 30r34 31|151e11
+102i4*Max_Priority{positive} 30|18r41
+105I12*Any_Priority{integer}
+106I12*Priority{105I12}
+109i4*Default_Priority{106I12} 30|22r41 26r41 30r41
+

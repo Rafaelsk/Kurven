@@ -1,0 +1,10 @@
+project Comportamiento_Entonado is
+
+   for Main use ("controlador.adb", "operador.adb", "planta.adb", "probar.adb");
+
+   package Compiler is
+      for Default_Switches ("ada") use ("-gnatw.e", "-gnatf", "-gnato");
+   end Compiler;
+
+end Comportamiento_Entonado;
+

@@ -1,0 +1,10 @@
+project Comprobar_Orden_Uno is
+
+   package Compiler is
+      for Default_Switches ("ada") use ("-gnatf", "-O");
+   end Compiler;
+
+   for Main use ("comprobar_orden_uno.adb");
+
+end Comprobar_Orden_Uno;
+

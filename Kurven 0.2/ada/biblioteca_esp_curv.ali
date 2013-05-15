@@ -1,0 +1,174 @@
+V "GNAT Lib v2012"
+A -gnatf
+A -gnatA
+P SS ZX
+R nnnnnnnnnnvnnnnnnnnnnnnnvvnnnnnnnnnnnnnnnvnnvnnnnnnnnnnnnnvnnnnvnnnnnnvnnnnnnnnnnnnnn
+
+U biblioteca_esp_curv%b	biblioteca_esp_curv.adb	2252ccd6 NE OO PK IL KM
+W ada%s			ada.ads			ada.ali
+W ada.command_line%s	a-comlin.adb		a-comlin.ali
+W ada.numerics%s	a-numeri.ads		a-numeri.ali
+W ada.numerics.elementary_functions%s  a-nuelfu.ads  a-nuelfu.ali
+W ada.numerics.real_arrays%s  a-nurear.ads	a-nurear.ali
+W ada.strings%s		a-string.ads		a-string.ali
+W ada.strings.fixed%s	a-strfix.adb		a-strfix.ali
+W ada.tags%s		a-tags.adb		a-tags.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+W interfaces%s		interfac.ads		interfac.ali
+W interfaces.c%s	i-c.adb			i-c.ali
+W system%s		system.ads		system.ali
+W system.secondary_stack%s  s-secsta.adb	s-secsta.ali
+W system.val_real%s	s-valrea.adb		s-valrea.ali
+W variables_esp_curv%s	variables_esp_curv.ads	variables_esp_curv.ali
+
+U biblioteca_esp_curv%s	biblioteca_esp_curv.ads	7712c129 EE NE OO PK IL KM
+W ada%s			ada.ads			ada.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+W variables_esp_curv%s	variables_esp_curv.ads	variables_esp_curv.ali
+
+D ada.ads		20120510125803 3ffc8e18
+D a-charac.ads		20120510125749 2d3ec45b
+D a-chlat1.ads		20120510125749 2825df20
+D a-comlin.ads		20120510125750 e0accaa5
+D a-except.ads		20120510125752 ec1b44c1
+D a-finali.ads		20120510125753 52ecdc1b
+D a-ioexce.ads		20120510125753 8b9de6cd
+D a-numeri.ads		20120510125755 bb51c45a
+D a-nuelfu.ads		20120510125755 03e83d1c
+D a-ngelfu.ads		20120510125754 243903c9
+D a-ngrear.ads		20120510125754 86992c51
+D a-nurear.ads		20120510125755 3158da1f
+D a-stream.ads		20120510125756 2ca4ee37
+D a-string.ads		20120510125757 90ac6797
+D a-strfix.ads		20120510125756 d07c346e
+D a-strmap.ads		20120510125757 9cb836fb
+D a-tags.ads		20120510125759 6c0509d0
+D a-textio.ads		20120510125800 386df5d4
+D a-unccon.ads		20120510125801 f9eb8f06
+D biblioteca_esp_curv.ads  20121123012301 971608f5
+D biblioteca_esp_curv.adb  20121123190846 e10c9160
+D interfac.ads		20120510125815 129923ea
+D i-c.ads		20120510125814 5421119b
+D i-cstrea.ads		20120510125814 1bd72c32
+D system.ads		20120510125846 72a1f35b
+D s-crtl.ads		20120510125824 ac77b159
+D s-exctab.ads		20120510125824 66e51330
+D s-ficobl.ads		20120510125825 443b9d66
+D s-finmas.ads		20120510125825 b95bb341
+D s-finroo.ads		20120510125825 4ff27390
+D s-parame.ads		20120510125832 b6e20cc0
+D s-pooglo.ads		20120510125832 542f33d0
+D s-secsta.ads		20120510125833 eea35a36
+D s-soflin.ads		20120510125833 24c8153c
+D s-stache.ads		20120510125834 596fc1b4
+D s-stalib.ads		20120510125834 f78bcf95
+D s-stoele.ads		20120510125834 facd7d98
+D s-stoele.adb		20120510125834 afc5dc80
+D s-stopoo.ads		20120510125834 7b8fbeee
+D s-traent.ads		20120510125838 5221ee41
+D s-unstyp.ads		20120510125838 6ae15c76
+D s-valrea.ads		20120510125839 fe297711
+D s-wchcon.ads		20120510125840 bfeb2e3d
+D variables_esp_curv.ads  20121123154207 d8693c08
+X 1 ada.ads
+16K9*Ada 19e8 20|2r6 2r45 21|1r6 1r45 2r6 2r45 3r6 3r45 4r6 4r45 5r6 5r45
+. 8r6 8r29
+X 4 a-comlin.ads
+38K13*Command_Line 139e21 21|8w10 8r33
+X 8 a-numeri.ads
+16K13*Numerics 32e17 21|4r10 4r49 5r10 5r49
+X 9 a-nuelfu.ads
+18K22*Elementary_Functions[10|39] 21|4w19 4r58
+X 11 a-ngrear.ads
+43A9*Real_Vector(float)<integer>
+X 12 a-nurear.ads
+18K22*Real_Arrays[11|38] 21|5w19 5r58
+X 14 a-string.ads
+16K13*Strings 35e16 21|2w10 2r49 3r10 3r49
+33n37*Both{33E9} 21|28r85 30r89
+X 15 a-strfix.ads
+18K21*Fixed 251e22 21|3w18 3r57
+36V13*Index{natural} 21|27s41
+148U14*Replace_Slice 21|29s33
+195V13*Trim{string} 21|28s58 30s58
+X 18 a-textio.ads
+49K13*Text_IO 471e16 20|2w10 2r49 21|1w10 1r49
+52P9*File_Type(369R9) 21|15r27
+53E9*File_Mode 53e54 21|16r24
+53n23*In_File{53E9} 21|16r44 21r30
+92U14*Open 21|21s17
+98U14*Close 21|35s17
+183V13*End_Of_File{boolean} 21|22s27
+253V13*Get_Line{string} 21|24s51
+X 20 biblioteca_esp_curv.ads
+4K9*biblioteca_esp_curv 11l5 11e24 21|12b14 146l5 146t24
+5U19*lee_archivo_de_datos 5>40 21|14b19 38l13 38t33 137s9
+5s40 Nombre{string} 21|14b40 21r39
+6U19*calcula_tiempo_levantamiento 21|40b19 77l13 77t41 138s9
+7V19*parametros_recta{44|4R14} 7>37 7>41 21|62s40 73s40 79b19 85l13 85t29
+. 104s40
+7r37 PA{44|4R14} 21|79b37 82r52 82r68
+7r41 PB{44|4R14} 21|79b41 82r45 82r61 83r44 83r73
+8U19*calcula_tiempo_asentamiento 21|87b19 108l13 108t40 139s9
+9U19*calcula_sobrepasomaximo 21|110b19 132l13 132t36 140s9
+10U19*especificaciones_curva 10>42 10<69 10<83 10<96 21|135b19 144l13 144t35
+10s42 Nombre_Archivo{string} 21|135b42 137r30
+10f69 Tiemp_levant{float} 21|135b69 141m9
+10f83 Tiemp_asent{float} 21|135b83 142m9
+10f96 Sobre_Paso{float} 21|135b96 143m9
+X 21 biblioteca_esp_curv.adb
+15p17 Arch{18|52P9} 21m24 21r24 22r40 24r61 35m24 35r24
+16e17 Mode{18|53E9}
+18i17 Conta{natural} 26m33 26r42 28r35 30r35 36r23
+19i17 indb{natural} 27m33 28r75 29r59
+24a33 Linea{string} 27r48 27r57 28r64 29r49 30r64 30r75
+41r17 p1{44|4R14} 58m25 59m25 62r58
+41r21 p2{44|4R14} 60m25 61m25 62r62
+41r25 PARAMETRO10{44|4R14} 62m25 63r41 63r56
+41r38 p4{44|4R14} 69m25 70m25 73r58
+41r42 p5{44|4R14} 71m25 72m25 73r62
+41r46 PARAMETRO90{44|4R14} 73m25 74r41 74r56
+80r17 PARAMETRO_CALCULADO{44|4R14} 82m17 83m17 83r51 84r24
+88r17 p6{44|4R14} 100m25 101m25 104r58
+88r21 p7{44|4R14} 102m25 103m25 104r62
+88r25 PARAMETRO95{44|4R14} 104m25 105r41 105r56
+111i17 contador{integer} 115r28 115r48 116m25 116r37 119r24 119r44 123r20
+. 124r35 124r49 125m33 125r45 128r46
+112f17 VALOR_PICO{float} 128m25 130r62
+X 22 interfac.ads
+36K9*Interfaces 21|6r6 6r45 22|175e15
+X 23 i-c.ads
+18K20*C 21|6w17 6r56 23|230e17
+X 25 system.ads
+37K9*System 21|9w6 25|151e11
+X 44 variables_esp_curv.ads
+2K9*variables_esp_curv 20|1w6 1r37 21|7w6 7r45 44|42e23
+4R14*COORDENADA 20|7r49 7r68 21|41r60 79r49 79r68 80r39 88r39 44|10e27
+6f25*X{float} 21|58m28 60m28 69m28 71m28 82r64 82r71 83r76 100m28 102m28
+7f25*Y{float} 21|59m28 61m28 70m28 72m28 82r48 82r55 83r47 101m28 103m28
+8f25*m{float} 21|63r68 74r68 82m37 83r71 105r68
+9f25*b{float} 21|63r53 74r53 83m37 105r53
+20f9*TAS{float} 21|107m17 142r23
+21f9*MP{float} 21|120m25 130m25 143r23
+23f9*k{float} 21|43m17 44r28 45r28 90m17 91r28 114m17 115r40 119r36 130r73
+. 130r76
+24f9*t10{float} 21|56m25 63m25 76r29
+25f9*t90{float} 21|67m25 74m25 76r23
+26f9*t95{float} 21|98m25 105m25 107r24
+27f9*k10{float} 21|44m17 48r41 55r38 63r37
+28f9*k90{float} 21|45m17 51r41 66r38 74r37
+29f9*k95{float} 21|91m17 93r41 97r38 105r37
+30i9*ik10{integer} 21|46m17 48r32 49m25 49r33 55r29 56r40 58r44 59r44 60r44
+. 61r44
+31i9*ik90{integer} 21|47m17 51r32 52m25 52r33 66r29 67r40 69r44 70r44 71r44
+. 72r44 100r44 101r44 102r44 103r44
+32i9*ik95{integer} 21|92m17 93r32 94m25 94r33 97r29 98r40
+33f9*Tr{float} 21|76m17 141r25
+37i9*n{integer} 21|36m17 43r30 90r30 114r24 115r60 119r53 123r31
+38f9*Ts{long_float} 21|37m17
+39a9*t{11|43A9[12|18]} 21|28m33 37r35 37r42 56r38 58r42 60r42 67r38 69r42
+. 71r42 98r38 100r42 102r42
+40a9*v{11|43A9[12|18]} 21|30m33 43r28 48r30 51r30 55r27 59r42 61r42 66r27
+. 70r42 72r42 90r28 93r30 97r27 101r42 103r42 114r22 115r26 119r22 124r33
+. 124r47 128r44
+

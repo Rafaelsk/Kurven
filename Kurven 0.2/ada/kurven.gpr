@@ -1,0 +1,13 @@
+project Kurven is
+
+   for Source_Dirs use ("./**", "Escalon Unitario");
+   for Main use ("aeulc.adb", "ajuste_directo.adb", "biblioteca_esp_curv.adb", "biblioteca_esp_curv.ads", "biblioteca_fuzzytuning.adb", "biblioteca_fuzzytuning.ads", "busqueda_directa.adb", "busqueda_directa.ads", 
+      "calcular_ganancias.adb", "comprobar_orden_uno.adb", "controlador_a.adb", "controlador_b.adb", "evaluar_modelo.adb", "evaluar_modelo.ads", "fbp1c.adb", "fbp1s.adb", "fuzzytuning.adb", "operador.adb", "planta.adb", "prueba.adb", 
+      "variables.ads", "variables_esp_curv.ads", "variables_fuzzytuning.ads", "variablesmd.ads");
+
+   package Compiler is
+      for Default_Switches ("ada") use ("-gnatf");
+   end Compiler;
+
+end Kurven;
+

@@ -1,0 +1,156 @@
+V "GNAT Lib v2012"
+M P W=b
+A -gnatf
+A -gnatA
+P SS ZX
+R nnnnnnnnnvvnnnnnnnnnnnnvvvnnnnnnnnnnnnnvnvnnvnvnnvnvnnnnnnvnnvnvnnnnnnvnnnnnnnv1+nnnnnn
+
+U operador%b		operador.adb		3fcd6d95 NE OO SU IL
+W ada%s			ada.ads			ada.ali
+W ada.calendar.delays%s	a-caldel.adb		a-caldel.ali
+W ada.command_line%s	a-comlin.adb		a-comlin.ali
+W ada.float_text_io%s	a-flteio.ads		a-flteio.ali
+W ada.real_time%s	a-reatim.adb		a-reatim.ali
+W ada.streams%s		a-stream.ads		a-stream.ali
+W ada.strings%s		a-string.ads		a-string.ali
+W ada.strings.fixed%s	a-strfix.adb		a-strfix.ali
+W ada.tags%s		a-tags.adb		a-tags.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+W gnat%s		gnat.ads		gnat.ali
+W gnat.sockets%s	g-socket.adb		g-socket.ali
+W system%s		system.ads		system.ali
+W system.concat_2%s	s-conca2.adb		s-conca2.ali
+W system.img_real%s	s-imgrea.adb		s-imgrea.ali
+W system.parameters%s	s-parame.adb		s-parame.ali
+W system.secondary_stack%s  s-secsta.adb	s-secsta.ali
+W system.soft_links%s	s-soflin.adb		s-soflin.ali
+W system.strings.stream_ops%s  s-ststop.adb	s-ststop.ali
+W system.task_info%s	s-tasinf.adb		s-tasinf.ali
+W system.tasking%s	s-taskin.adb		s-taskin.ali
+W system.tasking.stages%s  s-tassta.adb		s-tassta.ali
+W system.val_real%s	s-valrea.adb		s-valrea.ali
+
+D ada.ads		20120510125803 3ffc8e18
+D a-calend.ads		20120510125748 d86d6c8c
+D a-caldel.ads		20120510125748 9f20b83d
+D a-charac.ads		20120510125749 2d3ec45b
+D a-chlat1.ads		20120510125749 2825df20
+D a-comlin.ads		20120510125750 e0accaa5
+D a-except.ads		20120510125752 ec1b44c1
+D a-finali.ads		20120510125753 52ecdc1b
+D a-flteio.ads		20120510125753 e18a47a0
+D a-ioexce.ads		20120510125753 8b9de6cd
+D a-reatim.ads		20120510125755 63f07669
+D a-stream.ads		20120510125756 2ca4ee37
+D a-string.ads		20120510125757 90ac6797
+D a-strfix.ads		20120510125756 d07c346e
+D a-strmap.ads		20120510125757 9cb836fb
+D a-tags.ads		20120510125759 6c0509d0
+D a-textio.ads		20120510125800 386df5d4
+D a-tiflio.ads		20120510125800 56fbda09
+D a-unccon.ads		20120510125801 f9eb8f06
+D a-uncdea.ads		20120510125801 f15a5ed1
+D gnat.ads		20120510125813 fd2ad2f1
+D g-socket.ads		20120510125811 0c5639de
+D interfac.ads		20120510125815 129923ea
+D i-c.ads		20120510125814 5421119b
+D i-cstrea.ads		20120510125814 1bd72c32
+D operador.adb		20120804044524 5b51fa51
+D system.ads		20120510125846 72a1f35b
+D s-atacco.ads		20120510125819 4c36d12f
+D s-conca2.ads		20120510125823 fbd0f2fc
+D s-crtl.ads		20120510125824 ac77b159
+D s-exctab.ads		20120510125824 66e51330
+D s-ficobl.ads		20120510125825 443b9d66
+D s-finmas.ads		20120510125825 b95bb341
+D s-finroo.ads		20120510125825 4ff27390
+D s-imgrea.ads		20120510125826 c7a851e2
+D s-linux.ads		20120510125827 70c7cb45
+D s-multip.ads		20120510125828 38ac9f73
+D s-oscons.ads		20120511081643 546ce92a
+D s-osinte.ads		20120510125829 938b6b03
+D s-parame.ads		20120510125832 b6e20cc0
+D s-pooglo.ads		20120510125832 542f33d0
+D s-secsta.ads		20120510125833 eea35a36
+D s-soflin.ads		20120510125833 24c8153c
+D s-stache.ads		20120510125834 596fc1b4
+D s-stausa.ads		20120510125834 017a0a05
+D s-stalib.ads		20120510125834 f78bcf95
+D s-stoele.ads		20120510125834 facd7d98
+D s-stoele.adb		20120510125834 afc5dc80
+D s-stopoo.ads		20120510125834 7b8fbeee
+D s-string.ads		20120510125834 46b01415
+D s-ststop.ads		20120510125834 ee472be4
+D s-tasinf.ads		20120510125835 21316953
+D s-taspri.ads		20120510125836 15f617a8
+D s-taprop.ads		20120510125835 1dd2e1b6
+D s-taskin.ads		20120510125836 5e24fb30
+D s-tassta.ads		20120510125836 3a253871
+D s-traent.ads		20120510125838 5221ee41
+D s-unstyp.ads		20120510125838 6ae15c76
+D s-valrea.ads		20120510125839 fe297711
+D s-wchcon.ads		20120510125840 bfeb2e3d
+X 1 ada.ads
+16K9*Ada 19e8 26|1r6 1r37 3r6 3r45 4r6 4r29 5r6 5r29 7r6 7r37 8r6 8r29
+X 6 a-comlin.ads
+38K13*Command_Line 139e21 26|5w10 5r33
+X 9 a-flteio.ads
+20K13*Float_Text_IO[18|45] 26|8w10 8r33
+X 11 a-reatim.ads
+39K13*Real_Time 139e18 26|7w10 7r41
+X 13 a-string.ads
+16K13*Strings 35e16 26|3w10 3r49 4r10 4r33
+33n37*Both{33E9} 26|39r76 69r93 71r102 103r93 105r102
+X 14 a-strfix.ads
+18K21*Fixed 251e22 26|4w18 4r41
+36V13*Index{natural} 26|68s51 102s51
+148U14*Replace_Slice 26|70s41 104s41
+195V13*Trim{string} 26|39s51 69s60 71s61 103s60 105s61
+X 17 a-textio.ads
+49K13*Text_IO 471e16 26|1w10 1r41
+249U14*Get_Line 26|34s25
+X 21 gnat.ads
+34K9*GNAT 37e9 26|2r6 2r37
+X 22 g-socket.ads
+58K14*Sockets 1249e17 26|2w11 2r42
+412I9*Socket_Type 26|49r51 84r51
+463n25*Family_Inet{463E9} 26|48r58 55r41 83r58 89r41
+479I9*Port_Type<integer> 26|55r103 89r103
+505R9*Sock_Addr_Type 508e14 26|48r43 83r43
+549V13*Addresses{488R9} 26|55s54 89s54
+566V13*Get_Host_By_Name{532R9} 26|55s65 89s65
+805U14*Create_Socket 26|56s17 90s17
+841U14*Close_Socket 26|78s17 112s17
+844U14*Connect_Socket 26|57s17 91s17
+993P9*Stream_Access(12|39R9) 26|50r51 85r51
+996V13*Stream{993P9} 26|58s28 92s28
+X 26 operador.adb
+10U11*operador 10b11 118l5 118t13
+11b9 Salida{boolean}
+11b17 APAGATE{boolean} 35r94 36m33 60r28 61m33 94r28 95m33
+12f9 y_A{float} 71m41
+12f14 y_B{float} 105m41
+12f19 uA{float} 69m41
+12f23 uB{float} 103m41
+12f27 r{float} 39m33 64r66 98r66
+14t14 interfaz 27b12 43l13 43t21
+18t14 TareaCliente_A 47b19 80l13 80t27
+22t14 TareaCliente_B 82b20 114l13 114t27
+28a17 Cadena{string} 34m35 34r35 35r28 35r50 35r72 39r57
+29i17 lon{natural} 34m43 34r43 39r69
+48r17 Controlador_A{22|505R9} 55m17 57r47
+49i17 Hueco_Para_A{22|412I9} 56m32 56r32 57r33 58r36 78r30
+50p17 Canal_A{22|993P9} 58m17 64r48 66r76 76r32
+51i17 indb_A{natural} 68m41 69r81 70r71
+66a41 Mensaje_A{string} 68r58 69r66 70m57 70r57 71r67 71r82
+83r17 Controlador_B{22|505R9} 89m17 91r47
+84i17 Hueco_Para_B{22|412I9} 90m32 90r32 91r33 92r36 112r30
+85p17 Canal_B{22|993P9} 92m17 98r48 100r76 110r32
+86i17 indb_B{natural} 102m41 103r81 104r71
+100a41 Mensaje_B{string} 102r58 103r66 104m57 104r57 105r67 105r82
+X 27 system.ads
+37K9*System 26|6w6 15r34 19r34 23r34 27|151e11
+105I12*Any_Priority{integer}
+106I12*Priority{105I12}
+109i4*Default_Priority{106I12} 26|15r41 19r41 23r41
+

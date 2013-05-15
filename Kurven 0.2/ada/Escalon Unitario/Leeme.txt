@@ -1,0 +1,18 @@
+-- **************** AEULC = Aplicar Escalon-Unitario Lazo Cerrado ***********************
+--
+-- Dato importante 1: Cuando se simula la planta con el controlador, tiene que aumentarse el tiempo de muestreo para tomar mas detalles del comportamiento transitorio.**VER LINEA 10**
+-- En este caso se uso 0.1 s para el muestreo de la planta, con este tiempo es suficiente para ver con detalle el comportamiento transitorio.
+-- Dato importante 2: El sistema imprimira en pantalla e imprimira un archivo con el resultado del escalon
+-- Dato importante 3: La planta tiene que ser de Primer Orden y el controlador PI
+--
+-- Agumentos:
+-- (1) TsP: Tiempo de muestreo para la planta Por defecto: 0.1s
+-- (2) TsC: Tiempo de muestreo para el controlador. Por defecto 0.01s
+-- (3) n : Numero de muestreos. Por defecto: 30.
+-- (4) k : Ganancia de Estado Estable de la planta.	| Primer Orden
+-- (5) tau : Tau de la planta.				|
+-- (6) Kp: Constante de Ganancia Proporcional.
+-- (7) Ki: Constante de Ganancia Integral
+-- (8) Na: Nombre del Archivo que se guardara con la respuesta
+
+

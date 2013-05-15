@@ -1,0 +1,71 @@
+V "GNAT Lib v2012"
+M P W=b
+P SS ZX
+R nnnnnnnnnnnnnnnnnnnnnnnnnvnnnnnnnnnnnnnnnvnnnnnnnnnnnnnnnnnnnnnnnnnnnnvnnnnnnnnnnnnnn
+
+U ajuste_directo%b	ajuste_directo.adb	3f13a2c9 NE OO SU IL
+W ada%s			ada.ads			ada.ali
+W ada.command_line%s	a-comlin.adb		a-comlin.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+W busqueda_directa%s	busqueda_directa.adb	busqueda_directa.ali
+W system%s		system.ads		system.ali
+W system.secondary_stack%s  s-secsta.adb	s-secsta.ali
+W variables%s		variables.ads		variables.ali
+
+D ada.ads		20120510125803 3ffc8e18
+D a-comlin.ads		20120510125750 e0accaa5
+D a-except.ads		20120510125752 ec1b44c1
+D a-finali.ads		20120510125753 52ecdc1b
+D a-ioexce.ads		20120510125753 8b9de6cd
+D a-numeri.ads		20120510125755 bb51c45a
+D a-ngrear.ads		20120510125754 86992c51
+D a-nurear.ads		20120510125755 3158da1f
+D a-stream.ads		20120510125756 2ca4ee37
+D a-tags.ads		20120510125759 6c0509d0
+D a-textio.ads		20120510125800 386df5d4
+D a-unccon.ads		20120510125801 f9eb8f06
+D ajuste_directo.adb	20120726021842 1c0caaab
+D busqueda_directa.ads	20120728064306 0f8671fc
+D interfac.ads		20120510125815 129923ea
+D i-cstrea.ads		20120510125814 1bd72c32
+D system.ads		20120510125846 72a1f35b
+D s-crtl.ads		20120510125824 ac77b159
+D s-exctab.ads		20120510125824 66e51330
+D s-ficobl.ads		20120510125825 443b9d66
+D s-finmas.ads		20120510125825 b95bb341
+D s-finroo.ads		20120510125825 4ff27390
+D s-parame.ads		20120510125832 b6e20cc0
+D s-pooglo.ads		20120510125832 542f33d0
+D s-secsta.ads		20120510125833 eea35a36
+D s-soflin.ads		20120510125833 24c8153c
+D s-stache.ads		20120510125834 596fc1b4
+D s-stalib.ads		20120510125834 f78bcf95
+D s-stoele.ads		20120510125834 facd7d98
+D s-stoele.adb		20120510125834 afc5dc80
+D s-stopoo.ads		20120510125834 7b8fbeee
+D s-traent.ads		20120510125838 5221ee41
+D s-unstyp.ads		20120510125838 6ae15c76
+D s-wchcon.ads		20120510125840 bfeb2e3d
+D variables.ads		20120726014430 86f9b5b4
+X 1 ada.ads
+16K9*Ada 19e8 13|1r6 1r23 2r6 2r29
+X 2 a-comlin.ads
+38K13*Command_Line 139e21 13|2w10 2r33
+48V13*Argument{string} 13|10s30
+X 11 a-textio.ads
+49K13*Text_IO 471e16 13|1w10 1r27
+X 13 ajuste_directo.adb
+7U11*ajuste_directo 7b11 15l5 15t19
+8b9 X{boolean} 13m9
+X 14 busqueda_directa.ads
+5K9*busqueda_directa 13|5w6 5r29 14|12e21
+6U19*lee_archivo_de_datos 13|10s9
+7U19*calcula_k_tau 13|11s9
+9U19*evalua_modelo 13|12s9
+10V18*guarda_datos_modelo{boolean} 13|13s13
+11U19*imprimir_datos_modelo 13|14s9
+X 17 system.ads
+37K9*System 13|3w6 17|151e11
+X 35 variables.ads
+3K9*variables 13|4w6 4r21 35|21e14
+

@@ -1,0 +1,10 @@
+project Simular is
+
+   for Main use ("controlador_a.adb", "controlador_b.adb", "operador.adb", "planta.adb");
+
+   package Compiler is
+      for Default_Switches ("ada") use ("-gnatf");
+   end Compiler;
+
+end Simular;
+
